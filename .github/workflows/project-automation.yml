@@ -1,0 +1,38 @@
+name: Project Automation
+
+on:
+  issues:
+    # run this action when the following events occurs on an issue
+    types: [opened, closed, reopened,, unlabeled, connected]
+  pull_request:
+    # run this action when the following events occurs on a pull request
+    types: [opened, closed, reopened, labeled, unlabeled, ready_for_review, review_requested, review_request_removed, review_dismissed, reviewed, merged]
+env:
+  MY_GITHUB_TOKEN: ${{ secrets.PROJECT_TOKEN }}
+
+jobs:
+  assign_to_features:
+    runs-on: ubuntu-latest
+    name: Assign Issue/PR into "Features" Project
+    if: |
+      contains(github.event.issue.labels.*.name, 'feature_request') ||
+      contains(github.event.pull_request.labels.*.name, 'feature')
+    steps:
+      # A "Issue" will be added in "To do" colum if the following things happen:
+      # 1. The issue was newly opened
+      # 2. The issue was reopened
+      # No "Pull Requests" should be in "To do" column
+      - name: Assign to "To do" column
+        uses: srggrs/assign-one-project-github-action@1.2.0
+        if: github.event.action == 'opened' || github.event.action == 'reopened'
+        with:
+          project: "https://github.com/srggrs/assign-one-project-github-action/projects/2"
+
+      - name: Assign issues and pull requests with `bug` label to project 3
+        uses: srggrs/assign-one-project-github-action@1.2.0
+        if: |
+          contains(github.event.issue.labels.*.name, 'bug') ||
+          contains(github.event.pull_request.labels.*.name, 'bug')
+        with:
+          project: "https://github.com/srggrs/assign-one-project-github-action/projects/3"
+          column_name: "Labeled"

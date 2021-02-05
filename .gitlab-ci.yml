@@ -10,6 +10,6 @@ pages:
   - hugo
   artifacts:
     paths:
-  - public
+    - public
   only:
   - master

@@ -3,6 +3,11 @@
   {{ $author = (index site.Data site.Language.Lang).author }}
 {{ end }}
 
+{{ $config:= site.Data.site }}
+{{ if (index site.Data site.Language.Lang).site }}
+  {{ $config = (index site.Data site.Language.Lang).site }}
+{{ end }}
+
 {{ $sections:= site.Data.sections }}
 {{ if (index site.Data site.Language.Lang).sections }}
   {{ $sections = (index site.Data site.Language.Lang).sections }}
@@ -36,6 +41,7 @@
 <footer class="container-fluid text-center align-content-center footer pb-2">
   <div class="container pt-5">
     <div class="row text-left">
+      {{if $config.navigation}}
       <div class="col-md-4 col-sm-12">
         <h5>{{ i18n "navigation" }}</h5>
         {{ if $sections }}
@@ -55,7 +61,8 @@
         {{ end }}
 
       </div>
-      {{ if $author }}
+      {{end}}
+      {{ if $author.contactInfo }}
       <div class="col-md-4 col-sm-12">
         <h5>{{ i18n "contact_me" }}</h5>
         <ul>
@@ -92,7 +99,7 @@
   <div class="container">
     <div class="row text-left">
       <div class="col-md-4">
-        <a id="theme" href="https://github.com/hossainemruz/toha" target="#">
+        <a id="theme" href="https://github.com/hossainemruz/toha" target="#" >
           <img src="{{ $themeLogo }}">
           Toha
         </a>

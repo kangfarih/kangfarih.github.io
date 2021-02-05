@@ -1,11 +1,11 @@
 ---
-title: "Sample Pages"
+title: "Sample Project"
 date: 2020-06-08T22:00:20+06:00
 menu:
   sidebar:
-    name: Sample Title Pages
-    identifier: getting-started-github
-    parent: my-category
+    name: Sample Title Project
+    identifier: project-sample
+    parent: projects
     weight: 20
 ---
 

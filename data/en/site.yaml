@@ -1,8 +1,10 @@
 # Copyright Notice
-copyright: © 2021 Copyright.
+copyright: Modified by Farih | © 2021 Copyright.
 
 # Meta description for your site.  This will help the search engines to find your site.
 description: Portfolio and personal blog of Farih Muhammad.
+
+navigation : true
 
 # # specify the list of custom menus that you want to show in the top navbar.
 # # they will be separated by a divider from the main menus.

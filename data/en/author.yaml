@@ -4,10 +4,10 @@ nickname: "Farih"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
 image: "images/author/farih.jpg"
-# give your some contact information. they will be used in the footer
-contactInfo:
-  email: "farihul.ibad@gmail.com"
-  phone: "+62 856 2478 0910"
+# # give your some contact information. they will be used in the footer
+# contactInfo:
+#   email: "farihul.ibad@gmail.com"
+#   phone: "+62 856 2478 0910"
 
 # some summary about what you do
 summary:

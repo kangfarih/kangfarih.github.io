@@ -57,7 +57,7 @@
         <!--- Improve this page button --->
         {{ if site.Params.GitRepo }}
           <div class="btn-improve-page">
-              <a href="{{ site.Params.GitRepo }}/edit/{{ site.Params.GitBranch }}/content/{{ .File.Path }}">
+              <a id="editLink" target="_blank" href="{{ site.Params.GitRepo }}/edit/{{ site.Params.GitBranch }}/content/{{ .File.Path }}">
                 <i class="fas fa-code-branch"></i>
                 {{ i18n "improve_this_page" }}
               </a>
@@ -100,6 +100,16 @@
 <script src="{{ "/js/single.js" | relURL }}"></script>
 <script>
   hljs.initHighlightingOnLoad();
+</script>
+<script>
+    console.log('Hack git edit link');
+    var aPath, filePath ;
+    
+  $('document').ready(function () {
+    aPath = $('#editLink')[0].href;    
+    filePath = aPath.toString().replaceAll("%5c", "/");
+    $('#editLink')[0].href = filePath;
+  })
 </script>
 {{ if .Params.math }}
     {{ partial "math.html" . }}

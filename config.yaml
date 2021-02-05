@@ -49,8 +49,8 @@ params:
     favicon: /images/site/wind.png
 
   # GitHub repo URL of your site
-  gitRepo: https://gitlab.com/kangfarih/portfolio-web.git
-  gitBranch: main
+  gitRepo: https://gitlab.com/kangfarih/kangfarih.gitlab.io/
+  gitBranch: master
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true

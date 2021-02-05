@@ -11,39 +11,47 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: "/images/sections/skills/kubernetes.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+- name: Vanilla Web
+  logo: "/images/sections/skills/html5.png"
+  summary: "Experience with classic web language like <b>HTML, CSS, Browser Javascript</b>. 
+  Also familiar with website library such as jQuery, Bootstrap, etc "
+  url: ""
 
-- name: Go Development
-  logo: "/images/sections/skills/go.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+- name: Javascript Framework
+  logo: "/images/sections/skills/node-js.png"
+  summary: "Experience build web app with <b>Vue.js</b>. 
+  Familiar with with Node Js Environment and other Single Page Framework like <b>ReactJs</b>. </br>
+  Sometime do learning project with other framework like ExpressJs, Svelte on my spare time"
+  url: ""
 
-- name: Cloud Computing
-  logo: "/images/sections/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: React Native
+  logo: "/images/sections/skills/react-native.png"
+  summary: "Worked with most of the major mobile project with <b>React Native</b>. </br>
+  Have a little experience using Android Studio with Java Language for a small project.
+  "
 
-- name: Docker
-  logo: "/images/sections/skills/docker.svg"
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
+- name: Unity Game Engine
+  logo: "/images/sections/skills/unity3d.png"
+  summary: "Build most of the Game App, Augmented Reality App with Unity Game Engine</br>
+  "
+  url: ""
 
-- name: Prometheus
-  logo: "/images/sections/skills/prometheus.png"
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
+# - name: Prometheus
+#   logo: "/images/sections/skills/prometheus.png"
+#   summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+#   url: "https://prometheus.io/"
 
-- name: Linux
-  logo: "/images/sections/skills/linux.png"
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+# - name: Linux
+#   logo: "/images/sections/skills/linux.png"
+#   summary: "Using as the main operating system. Capable of writing bash/shell scripts."
 
 - name: Git
   logo: "/images/sections/skills/git.png"
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  url: "https://git-scm.com/"
+  summary: "Experienced with git-based development. Mostly, use Gitlab and Github. 
+  Also, have experience in working with Bitbucket."
+  url: ""
 
-- name: C++
-  logo: "/images/sections/skills/c++.png"
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+- name: Graphic Editor
+  logo: "/images/sections/skills/inkscape.png"
+  summary: "Know basic of Graphic editing Vector Picture with Inkscape or Adobe Illustrator 
+  and Adobe Photoshop for Raster Image"

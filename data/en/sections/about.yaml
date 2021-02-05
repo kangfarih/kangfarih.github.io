@@ -15,12 +15,16 @@ designation: Front End Engineer
 #   url: "https://www.example.com"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+resume: "files/Farih Muhammad Resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with 3 years of working experience as a front end programmer. 
-I built front end application for web, mobile and game application. 
-I am also learning back end language with expressJs and mongodb, 
+summary: 'Hello, I am a Professional Software Developer. 
+</br>
+Currently I have 3 years professional experience as a front-end programmer. 
+I built front end side application for web, mobile or game application.
+</br></br>
+I love technology and science, 
+I like to code and learn how to build something. And with that passion I determined myself to become a good engineer.
 
 '
 

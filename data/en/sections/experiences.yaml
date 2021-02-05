@@ -15,40 +15,38 @@ experiences:
     url: "https://www.plexus.id"
     location: Bandung
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Plexus.id recognized company for their experience in games, web based, mobile, AR and VR apps Development.
   positions:
-  - designation: Senior Software Engineer
-    start: Mar 2018
-    end: Aug 2020
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+  # - designation: Senior Software Engineer
+  #   start: Mar 2018
+  #   end: Aug 2020
+  #   # don't provide end date if you are currently working there. It will be replaced by "Present"
+  #   # end: Dec 2020
+  #   # give some points about what was your responsibilities at the company.
+  #   responsibilities:
+  #   - Design and develop XYZ tool for ABC task
+  #   - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
+  #   - Lead backend team.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
+  - designation: Front End Engineer
+    start:  Mar 2018
+    end: Aug 2020
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Implement and test Front End Application such as web, mobile, games, AR dan VR.
+    - Support and have a good Communition with Team to complete the project.
+    - Learn New Technology for efficient and effective development process. 
 
 - company:
     name: Gema Cipta Piranti
     url: 
     location: Bandung
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    overview: Software Dev Company
   positions:
   - designation: Front End Programmer
     start: March 2016
     end: May 2017
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Build Front End part of School Lab Management Software 
 
 # - company:
 #     name: Freelancer

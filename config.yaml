@@ -52,8 +52,8 @@ params:
   gitRepo: https://gitlab.com/kangfarih/portfolio-web.git
   gitBranch: main
 
-  # # specify whether you want to write some blog posts or not
-  # enableBlogPost: true
+  # specify whether you want to write some blog posts or not
+  enableBlogPost: true
 
   # specify whether you want to show Table of Contents in reading page
   enableTOC: true

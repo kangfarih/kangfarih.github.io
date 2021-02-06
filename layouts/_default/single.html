@@ -102,7 +102,7 @@
   hljs.initHighlightingOnLoad();
 </script>
 <script>
-    console.log('Hack git edit link');
+    console.log('Hack the single page');
     var aPath, filePath ;
     
   $('document').ready(function () {
@@ -110,6 +110,11 @@
     filePath = aPath.toString().replaceAll("%5c", "/");
     $('#editLink')[0].href = filePath;
   })
+
+  $("a[href^='http']:not([href*='gitlab.io'])").click(function(){
+    window.open(this.href);
+    return false;
+  }).attr("title", "Opens in a new window");
 </script>
 {{ if .Params.math }}
     {{ partial "math.html" . }}

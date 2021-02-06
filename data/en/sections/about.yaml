@@ -42,7 +42,7 @@ socialLinks:
 
 - name: Gitlab
   icon: "fab fa-gitlab"
-  url: "https://www.girlab.com/kangfarih"
+  url: "https://www.gitlab.com/kangfarih"
   
 
 # - name: Stackoverflow
@@ -51,7 +51,7 @@ socialLinks:
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/kangfarih/"
 
 # - name: Twitter
 #   icon: "fab fa-twitter"

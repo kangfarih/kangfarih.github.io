@@ -4,5 +4,5 @@ menu:
   sidebar:
     name: Projects
     identifier: projects
-    weight: 10
+    weight: 1
 ---

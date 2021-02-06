@@ -5,7 +5,7 @@ menu:
   sidebar:
     name: Mobile AR
     identifier: ar-mobile-apps
-    parent: projects
+    parent: 
     weight: 12
 ---
 

@@ -5,7 +5,7 @@ menu:
   sidebar:
     name: Interactive Web Video
     identifier: interactive-web-video
-    parent: projects
+    parent: 
     weight: 3
 ---
 

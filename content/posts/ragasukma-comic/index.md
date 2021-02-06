@@ -5,7 +5,7 @@ menu:
   sidebar:
     name: Ragasukma Comic
     identifier: ragasukma-comic
-    parent: projects
+    parent: 
     weight: 10
 ---
 A mobile apps for reading and buy a comic made by [Ragasukma](http://ragasukma.com).  

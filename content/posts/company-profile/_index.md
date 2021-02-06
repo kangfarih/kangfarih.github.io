@@ -5,7 +5,7 @@ menu:
   sidebar:
     name: Company Profile
     identifier: company-profile
-    parent: projects
+    parent: 
     weight: 2
 ---
 

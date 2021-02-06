@@ -5,7 +5,7 @@ menu:
   sidebar:
     name: Game Prototype
     identifier: casual-game-prototype
-    parent: projects
+    parent: 
     weight: 11
 ---
 

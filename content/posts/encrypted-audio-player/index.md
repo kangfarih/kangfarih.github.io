@@ -5,7 +5,7 @@ menu:
   sidebar:
     name: Encrypted Player
     identifier: encrypted-audio-player
-    parent: projects
+    parent: 
     weight: 99
 ---
 

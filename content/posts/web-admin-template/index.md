@@ -35,7 +35,7 @@ It was made with bootstrap based template and vanilla javascript.
   - [On Progress Development]
 
 ### Role
-As a Developer I made this project for Demonstration and Learning purporse.
+As a Developer I made this project for Demonstration and Learning purpose.
 
 
 ### Footage

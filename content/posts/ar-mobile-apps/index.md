@@ -25,7 +25,7 @@ There are a Mobile apps with augmented reality feature and Web Apps for Admin to
 
 ### Role
 There are Back End, Front End and UI Designer team who work for this project.  
-As a part of **Front-End** team I have responsiblity to implementing, maintain all of Apps Feature, for Mobile Apps and Admin Web.
+As a part of **Front-End** team I have responsiblity to implement, maintain all of Apps Feature, for Mobile Apps and Admin Web.
 
 ### Footage
 Video footage

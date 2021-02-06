@@ -11,7 +11,7 @@ menu:
 A mobile apps for reading and buy a comic made by [Ragasukma](http://ragasukma.com).  
 I was doing the project when still being part of [Plexus.id](http://plexus.id) Team.  
 The application has been released to Google Playstore and can be downloaded.  
-There is two type of application, Mobile apps for End User and Web Apps for Admin.
+There is two kind of application, Mobile apps for End User and Web Apps for Admin.
 
 ---
 ### Overview
@@ -29,7 +29,7 @@ There is two type of application, Mobile apps for End User and Web Apps for Admi
 
 ### Role
 In this project we are consist of Back End, Front End and UI Designer team.  
-Being part of **Front-End** team I have responsiblity to implement, maintain all of Apps Features for Mobile Apps and Admin Web.
+Being part of **Front-End** team I had responsiblity to implement, maintain all of Apps Features for Mobile Apps and Admin Web.
 
 
 ### Footage

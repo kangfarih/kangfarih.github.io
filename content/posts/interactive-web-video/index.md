@@ -26,7 +26,7 @@ All of the apps made for web and build with plain web and jquery.
   - Safari and ios compatibility
 
 ### Role
-As a **Front-End** programmer I have responsiblity to implement, maintain all of Apps Feature for any required devices screen and browsers.
+As a **Front-End** programmer I had responsiblity to implement, maintain all of Apps Feature for any required devices screen and browsers.
 
 
 ### Footage

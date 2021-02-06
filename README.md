@@ -255,7 +255,7 @@ Pull requests are most welcome and I will be happy to review. Just follow the fo
 - Use as few dependencies as possible.
 - Have patience.
 
-> I am not a web developer. I have created this theme for my personal needs. So, it is reasonable to have some flaws in the codes. Feel free to open issues and PRs acknowledging the problems.
+> I am not a web developer. I had created this theme for my personal needs. So, it is reasonable to have some flaws in the codes. Feel free to open issues and PRs acknowledging the problems.
 
 ## Local Development
 

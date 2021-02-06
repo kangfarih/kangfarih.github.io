@@ -10,7 +10,7 @@ menu:
 ---
 
 This is a project about an audio player with encrypted data to play.  
-I am as a freelancer build two similar application, one for user and other for admin.
+I am building as a freelancer two similar application, one for user and other for admin.
 All of the apps are made for mobile using react native framework.
 
 ---
@@ -26,7 +26,7 @@ All of the apps are made for mobile using react native framework.
 
 ### Role
 There are Back End and Front End who work for this project.  
-As a **Front-End** programmer I have responsiblity to implement, maintain all of Apps Feature for Mobile and Admin Apps.
+As a **Front-End** programmer I had responsiblity to implement, maintain all of Apps Feature for Mobile and Admin Apps.
 
 ### Footage
 Video footage

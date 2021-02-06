@@ -25,7 +25,7 @@ All of the apps made for web and build with plain web and jquery.
   - Contact Us
 
 ### Role
-As a **Front-End** programmer I have responsiblity to implement Web Design from client to web application. And also build working application features at any required devices screen and browsers.
+As a **Front-End** programmer I had responsiblity to implement Web Design from client to web application. And also build working application features at any required devices screen and browsers.
 
 
 ### Footage

@@ -21,7 +21,7 @@ being Front End Programmer I help Game Designer and Graphic Designer to build ga
 
 ### Role
 We have Game Designer, Front End and Graphic Designer team who work for this project. 
-As a part of **Front-End** team I have responsiblity to implement all of game mechanism into Prototype Gameplay.
+As a part of **Front-End** team I had responsiblity to implement all of game mechanism into Prototype Gameplay.
 
 ### Footage
 Video footage

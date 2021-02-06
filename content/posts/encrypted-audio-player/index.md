@@ -26,7 +26,7 @@ All of the apps are made for mobile using react native framework.
 
 ### Role
 There are Back End and Front End who working for this project.  
-As a **Front-End** programmer I have responsiblity to implementing, maintening all of Apps Feature for Mobile and Admin Apps.
+As a **Front-End** programmer I have responsiblity to implementing, maintain all of Apps Feature for Mobile and Admin Apps.
 
 ### Footage
 Video footage

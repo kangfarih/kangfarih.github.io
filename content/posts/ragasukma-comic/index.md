@@ -29,7 +29,7 @@ There is two type of application, Mobile apps for End User and Web Apps for Admi
 
 ### Role
 In this project we are consist of Back End, Front End and UI Designer team.  
-Being part of **Front-End** team I have responsiblity to implementing, maintening all of Apps Feature, for Mobile Apps and Admin Web.
+Being part of **Front-End** team I have responsiblity to implementing, maintain all of Apps Feature, for Mobile Apps and Admin Web.
 
 
 ### Footage

@@ -9,9 +9,9 @@ menu:
     weight: 12
 ---
 
-An augmented reality apps for simulate products of [First4Figures](https://www.first4figures.com/).  
-This the project that I am working with when I was part of [Plexus.id](http://plexus.id) Team. 
-There are a Mobile apps with augmented reality feature and Web Apps for Admin to manage the content.
+An augmented reality apps as simulator of [First4Figures](https://www.first4figures.com/) products.  
+This the project that I am working in when I was a part of [Plexus.id](http://plexus.id) Team. 
+There are a Mobile apps with augmented reality feature and Web Apps for Admin to manage the contents.
 
 ---
 ### Overview
@@ -24,8 +24,8 @@ There are a Mobile apps with augmented reality feature and Web Apps for Admin to
   - Web Admin (Add, Edit, Update, Delete all related apps data)
 
 ### Role
-Thear are Back End, Front End and UI Designer team who working for this project.  
-As a part of **Front-End** team I have responsiblity to implementing, maintening all of Apps Feature, for Mobile Apps and Admin Web.
+There are Back End, Front End and UI Designer team who work for this project.  
+As a part of **Front-End** team I have responsiblity to implementing, maintain all of Apps Feature, for Mobile Apps and Admin Web.
 
 ### Footage
 Video footage

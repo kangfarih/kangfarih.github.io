@@ -9,7 +9,7 @@ menu:
     weight: 8
 ---
 
-A company profile website that I am build as a freelance side job.  
+I build a company profile website as a freelance side job.  
 All of the apps made for web and build with plain web and jquery.
 
 ---
@@ -24,7 +24,7 @@ All of the apps made for web and build with plain web and jquery.
   - Responsive
 
 ### Role
-As a **Front-End** programmer I have responsiblity to implementing Web Design from client to web application. And also maintening all of Apps Feature for any required devices screen and browsers.
+As a **Front-End** programmer I have responsiblity to implement Web Design from client to web application. And also maintain all of Apps Feature for any required devices screen and browsers.
 
 
 ### Footage

@@ -34,7 +34,7 @@ projects:
   # If your project is not a public repo but it has a website or any external details url then provide it here. 
   # don't provide "repo" and "url" simultaneously.
   summary: "
-  This project is made to demonstrate my experince from build an admin website.
+  This project is made to demonstrate my experince to build an admin website
   when I was a part of Plexus.id Team.  
   It was made with bootstrap based template and vanilla javascript.
   "
@@ -60,7 +60,7 @@ projects:
   summary: '
   The project is to build a company profile for VDP, Indessota, Natraco and 8Villages'
   tags: ["professional", "mobile", "web"]
-  
+
 
 - name: Augmented Reality Apps
   logo: /images/sections/skills/unity3d.png

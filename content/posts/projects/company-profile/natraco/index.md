@@ -9,26 +9,24 @@ menu:
     weight: 1
 ---
 
-The project is about a web player with clickable tag.
-I am working this as a freelancer for [DreamTechnology]("http://dreamtechnology.co.id/").
+A website for company profile that I work with whe I was part of [Plexus.id](http://plexus.id) team.
 All of the apps made for web and build with plain web and jquery.
 
 ---
 ### Overview
 - Role : Front End Programmer
 - Type : Web Apps
-- Technology : Jquery & Vanilla Javascript
-- Released Url : [Website](https://sdm.kemdikbud.go.id/video-interaktif/)
+- Technology : Jquery, Bootstrap, Vanilla Javascript
+- Released Url : [Website](http://natracospices.co.id/)
 - Apps Feature : 
-  - Basic Video controller
-  - Clickable Tag link Inside Video PLayer
-  - Fullscreen
-  - Safari and ios compatibility
+  - Image Galery
+  - Carousel
+  - Responsive
 
 ### Role
-As a **Front-End** programmer I have responsiblity to implementing, maintening all of Apps Feature for any device screen and browser that required.
+As a **Front-End** programmer I have responsiblity to implementing Web Design from Graphic Deisgn team to web application. And also maintening all of Apps Feature for any required devices screen and browsers.
 
 
 ### Footage
 Video footage
-{{<youtube v-rJpBhGgVU>}}
+{{<youtube yjiHdVeWfrk>}}

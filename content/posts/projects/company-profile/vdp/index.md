@@ -1,34 +1,32 @@
 ---
-title: "Natraco Website"
+title: "VDP Website"
 date: 2020-05-06T22:00:20+06:00
 menu:
   sidebar:
-    name: Natraco
+    name: VDP
     identifier: vdp-web
     parent: company-profile
-    weight: 1
+    weight: 8
 ---
 
-The project is about a web player with clickable tag.
-I am working this as a freelancer for [DreamTechnology]("http://dreamtechnology.co.id/").
+A company profile website that I am build as a freelance side job.  
 All of the apps made for web and build with plain web and jquery.
 
 ---
 ### Overview
 - Role : Front End Programmer
 - Type : Web Apps
-- Technology : Jquery & Vanilla Javascript
-- Released Url : [Website](https://sdm.kemdikbud.go.id/video-interaktif/)
+- Technology : Bootstrap, VueJs
+- Released Url : [Website](https://www.vdpqatar.com/)
 - Apps Feature : 
-  - Basic Video controller
-  - Clickable Tag link Inside Video PLayer
-  - Fullscreen
-  - Safari and ios compatibility
+  - Image Galery
+  - Carousel
+  - Responsive
 
 ### Role
-As a **Front-End** programmer I have responsiblity to implementing, maintening all of Apps Feature for any device screen and browser that required.
+As a **Front-End** programmer I have responsiblity to implementing Web Design from client to web application. And also maintening all of Apps Feature for any required devices screen and browsers.
 
 
 ### Footage
 Video footage
-{{<youtube v-rJpBhGgVU>}}
+{{<youtube XogHeHERCh4>}}

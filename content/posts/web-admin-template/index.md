@@ -11,7 +11,7 @@ menu:
 
 This project is made to demonstrate my experince from build an admin website.
 when I was a part of [Plexus.id](http://plexus.id) Team.  
-It was made with bootstrap based template and vanilla javascript.
+It was build with bootstrap based template and vanilla javascript.
 
 ---
 ### Overview

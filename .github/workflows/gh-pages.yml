@@ -18,20 +18,13 @@ jobs:
       with:
         hugo-version: 'latest'
 
-    - name: hugo --minify
-      uses: klakegg/actions-hugo@1.0.0
-
-      # - name: Build
-      #   run: hugo --minify
+    - name: Build
+      # uses: klakegg/actions-hugo@1.0.0
+      run: hugo --minify
 
     - name: Deploy
-      uses: klakegg/actions-hugo@1.0.0
+      # uses: klakegg/actions-hugo@1.0.0
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
-
-    - name: GH Pages
-      run: npm install gh-pages
-    - name: GH Deploy
-      run: gh-pages -d ./public
 

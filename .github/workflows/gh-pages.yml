@@ -32,4 +32,6 @@ jobs:
 
     - name: GH Pages
       run: npm install gh-pages
+    - name: GH Deploy
+      run: gh-pages -d ./public
 

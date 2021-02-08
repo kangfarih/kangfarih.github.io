@@ -15,20 +15,20 @@ jobs:
         uses: peaceiris/actions-hugo@v2.4.13
         with:
           hugo-version: 'latest'
-          
+
       - name: Curr Location
-        run: pwd
+        run: ls
 
-      - name: Build
-        run: hugo --minify
+      # - name: Build
+      #   run: hugo --minify
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3.7.3
-        with:
-          github_token: ${{ secrets.GH_TOKEN }}
-          publish_dir: ./public
+      # - name: Deploy
+      #   uses: peaceiris/actions-gh-pages@v3.7.3
+      #   with:
+      #     github_token: ${{ secrets.GH_TOKEN }}
+      #     publish_dir: ./public
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2.4.13
-        with:
-          hugo-version: 'latest'
+      # - name: Setup Hugo
+      #   uses: peaceiris/actions-hugo@v2.4.13
+      #   with:
+      #     hugo-version: 'latest'

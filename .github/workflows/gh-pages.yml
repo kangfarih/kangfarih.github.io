@@ -17,6 +17,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@latest
         with:
+          github_token: ${{ secrets.GH_TOKEN }}
           publish_dir: ./public
 
 - name: Setup Hugo

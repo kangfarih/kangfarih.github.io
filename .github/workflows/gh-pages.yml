@@ -18,9 +18,11 @@ jobs:
       with:
         hugo-version: 'latest'
 
-    - name: Build
+    - name: hugo 
       uses: klakegg/actions-hugo@1.0.0
-      run: hugo --minify
+
+    # - name: Build
+    #   run: hugo --minify
 
     - name: Deploy
       uses: klakegg/actions-hugo@1.0.0

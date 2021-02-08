@@ -1,5 +1,4 @@
-name: Github User Pages Build
-
+name: Deploy Github User Pages 
 
 on:
   pull_request:
@@ -14,7 +13,12 @@ jobs:
     steps:
     - uses: actions/checkout@v1
 
-    - name: hugo
+    - name: Setup Hugo
+      uses: klakegg/actions-hugo@1.0.0
+      with:
+        hugo-version: 'latest'
+
+    - name: hugo --minify
       uses: klakegg/actions-hugo@1.0.0
 
       # - name: Build
@@ -26,7 +30,6 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
 
-      # - name: Setup Hugo
-      #   uses: peaceiris/actions-hugo@v2.4.13
-      #   with:
-      #     hugo-version: 'latest'
+    - name: GH Pages
+      run: npm install gh-pages
+

@@ -3,6 +3,7 @@
   {{ $author = (index site.Data site.Language.Lang).author }}
 {{ end }}
 
+
 {{ $config:= site.Data.site }}
 {{ if (index site.Data site.Language.Lang).site }}
   {{ $config = (index site.Data site.Language.Lang).site }}
@@ -113,6 +114,9 @@
           height="18"
         />
         </a>
+      </div>
+      <div class="col-12 text-center">Latest modified at {{ now.Month }} {{ now.Day }}, {{ now.Year }}
+        - {{ now.Hour }}:{{ now.Minute }}:{{ now.Second }}
       </div>
     </div>
   </div>

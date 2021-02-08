@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Farih Muhammad</title>
+    <link>https://kangfarih.gitlab.io/</link>
+    <description>Recent content on Farih Muhammad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jun 2020 22:00:20 +0600</lastBuildDate><atom:link href="https://kangfarih.gitlab.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>General Admin Template</title>
+      <link>https://kangfarih.gitlab.io/posts/web-admin-template/</link>
+      <pubDate>Mon, 01 Jun 2020 22:00:20 +0600</pubDate>
+      
+      <guid>https://kangfarih.gitlab.io/posts/web-admin-template/</guid>
+      <description>This project is made to demonstrate my experince from build an admin website. when I was a part of Plexus.id Team.
+It was build with bootstrap based template and vanilla javascript.
+ Overview  Role : Developer Type : Web Apps, Rest Api Technology :  Backend  Expressjs mongodb   Frontend  Bootstrap based admin template : gentelella Jquery datatables parsleyjs font-awesome summernote unity engine     Repo : Github Apps Feature :  Dummy Data [On Progress Development]    Role As a Developer I made this project for Demonstration and Learning purpose.</description>
+    </item>
+    
+    <item>
+      <title>Interactive Web Video</title>
+      <link>https://kangfarih.gitlab.io/posts/interactive-web-video/</link>
+      <pubDate>Mon, 06 Apr 2020 22:00:20 +0600</pubDate>
+      
+      <guid>https://kangfarih.gitlab.io/posts/interactive-web-video/</guid>
+      <description>The project is about a web player with clickable tag. I am working this as a freelancer for DreamTechnology. All of the apps made for web and build with plain web and jquery.
+ Overview  Role : Front End Programmer Type : Web Apps Technology : Jquery &amp;amp; Vanilla Javascript Released Url : Website Apps Feature :  Basic Video controller Clickable Tag link Inside Video PLayer Fullscreen Safari and ios compatibility    Role As a Front-End programmer I had responsiblity to implement, maintain all of Apps Feature for any required devices screen and browsers.</description>
+    </item>
+    
+    <item>
+      <title>Ragasukma Comic App</title>
+      <link>https://kangfarih.gitlab.io/posts/ragasukma-comic/</link>
+      <pubDate>Sun, 01 Mar 2020 22:00:00 +0000</pubDate>
+      
+      <guid>https://kangfarih.gitlab.io/posts/ragasukma-comic/</guid>
+      <description>A mobile apps for reading and buy a comic made by Ragasukma.
+I was doing the project when still being part of Plexus.id Team.
+The application has been released to Google Playstore and can be downloaded.
+There is two kind of application, Mobile apps for End User and Web Apps for Admin.
+ Overview  Role : Front End Programmer Type : Mobile Apps (User), Web Apps (Admin) Technology : React Native (User), Web (Admin) Released Url : Playstore Apps Feature :  User (Login, Logout, Profile, etc) Comic (Reading, Zoom in/out, Offline Read, Set as Favorite, etc) Social (Comment to a comic, comment to page, giving rate, etc) Transaction (Add/Remove to cart, Payment, etc) Others (Highlight, Read Article, Downloadn Image, etc) Web Admin (Add, Edit, Update, Delete all related apps data)    Role In this project we are consist of Back End, Front End and UI Designer team.</description>
+    </item>
+    
+    <item>
+      <title>Casual Game Prototype</title>
+      <link>https://kangfarih.gitlab.io/posts/casual-game-prototype/</link>
+      <pubDate>Thu, 06 Feb 2020 22:00:20 +0600</pubDate>
+      
+      <guid>https://kangfarih.gitlab.io/posts/casual-game-prototype/</guid>
+      <description>The project goal is to build casual game prototype. It&amp;rsquo;s when I was part of Plexus.id Team, and being Front End Programmer I help Game Designer and Graphic Designer to build game prototype.
+ Overview  Role : Front End Programmer Type : Mobile Games Technology : Unity Game Engine Apps Feature : No Spesific Feature  Role We have Game Designer, Front End and Graphic Designer team who work for this project.</description>
+    </item>
+    
+    <item>
+      <title>Mobile Augmented Reality</title>
+      <link>https://kangfarih.gitlab.io/posts/ar-mobile-apps/</link>
+      <pubDate>Mon, 06 Jan 2020 22:00:20 +0600</pubDate>
+      
+      <guid>https://kangfarih.gitlab.io/posts/ar-mobile-apps/</guid>
+      <description>An augmented reality apps as simulator of First4Figures products.
+This the project that I am working in when I was a part of Plexus.id Team. There are a Mobile apps with augmented reality feature and Web Apps for Admin to manage the contents.
+ Overview  Role : Front End Programmer Type : Mobile Apps (User), Web Apps (Admin) Technology : Unity Game Engine (User), Web (Admin) Apps Feature :  Augmented Reality Browes Item, Download, Save Record Picture &amp;amp; Video Web Admin (Add, Edit, Update, Delete all related apps data)    Role There are Back End, Front End and UI Designer team who work for this project.</description>
+    </item>
+    
+    <item>
+      <title>8Villages Website</title>
+      <link>https://kangfarih.gitlab.io/posts/company-profile/8villages/</link>
+      <pubDate>Mon, 06 May 2019 22:00:20 +0600</pubDate>
+      
+      <guid>https://kangfarih.gitlab.io/posts/company-profile/8villages/</guid>
+      <description>A website for company profile that I work with whe I was part of Plexus.id team. All of the apps made for web and build with plain web and jquery.
+ Overview  Role : Front End Programmer Type : Web Apps Technology : Jquery, Bootstrap, Vanilla Javascript Released Url : Website Apps Feature :  Image Galery Carousel Responsive Contact Us    Role As a Front-End programmer I had responsiblity to implement Web Design from client to web application.</description>
+    </item>
+    
+    <item>
+      <title>Indessota</title>
+      <link>https://kangfarih.gitlab.io/posts/company-profile/indessota/</link>
+      <pubDate>Mon, 06 May 2019 22:00:20 +0600</pubDate>
+      
+      <guid>https://kangfarih.gitlab.io/posts/company-profile/indessota/</guid>
+      <description>A website for company profile that I work with whe I was part of Plexus.id team. All of the apps made for web and build with plain web and jquery.
+ Overview  Role : Front End Programmer Type : Web Apps Technology : Jquery, Bootstrap, Vanilla Javascript Released Url : Website Apps Feature :  Image Galery Carousel Responsive    Role As a Front-End programmer I had responsiblity to implement Web Design from client to web application.</description>
+    </item>
+    
+    <item>
+      <title>Natraco Website</title>
+      <link>https://kangfarih.gitlab.io/posts/company-profile/natraco/</link>
+      <pubDate>Mon, 06 May 2019 22:00:20 +0600</pubDate>
+      
+      <guid>https://kangfarih.gitlab.io/posts/company-profile/natraco/</guid>
+      <description>A website for company profile that I work with whe I was part of Plexus.id team. All of the apps made for web and build with plain web and jquery.
+ Overview  Role : Front End Programmer Type : Web Apps Technology : Jquery, Bootstrap, Vanilla Javascript Released Url : Website Apps Feature :  Image Galery Carousel Responsive    Role As a Front-End programmer I had responsiblity to implement Web Design from client to web application.</description>
+    </item>
+    
+    <item>
+      <title>VDP Website</title>
+      <link>https://kangfarih.gitlab.io/posts/company-profile/vdp/</link>
+      <pubDate>Fri, 01 Mar 2019 22:00:20 +0600</pubDate>
+      
+      <guid>https://kangfarih.gitlab.io/posts/company-profile/vdp/</guid>
+      <description>I build a company profile website as a freelance side job.
+All of the apps made for web and build with plain web and jquery.
+ Overview  Role : Front End Programmer Type : Web Apps Technology : Bootstrap, VueJs Released Url : Website Apps Feature :  Image Galery Carousel Responsive    Role As a Front-End programmer I had responsiblity to implement Web Design from client to web application.</description>
+    </item>
+    
+    <item>
+      <title>Encrypted Audio</title>
+      <link>https://kangfarih.gitlab.io/posts/encrypted-audio-player/</link>
+      <pubDate>Sun, 06 Jan 2019 22:00:20 +0600</pubDate>
+      
+      <guid>https://kangfarih.gitlab.io/posts/encrypted-audio-player/</guid>
+      <description>This is a project about an audio player with encrypted data to play.
+I am building as a freelancer two similar application, one for user and other for admin. All of the apps are made for mobile using react native framework.
+ Overview  Role : Front End Programmer Type : Mobile Apps (User and Admin) Technology : React Native (User and Admin) Released Url : Playstore Apps Feature :  Download, Audio Feature (Play, pause, stop, seekbar).</description>
+    </item>
+    
+  </channel>
+</rss>

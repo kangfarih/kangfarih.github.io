@@ -15,12 +15,12 @@ jobs:
         run: hugo --minify
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@latest
+        uses: peaceiris/actions-gh-pages@v3.7.3
         with:
           github_token: ${{ secrets.GH_TOKEN }}
           publish_dir: ./public
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@latest
+        uses: peaceiris/actions-hugo@v2.4.13
         with:
           hugo-version: 'latest'

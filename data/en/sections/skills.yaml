@@ -35,7 +35,7 @@ skills:
 
 - name: Unity Game Engine
   logo: "/images/sections/skills/unity3d.png"
-  summary: "Build most of the Game App, Augmented Reality App with Unity Game Engine</br>
+  summary: "Build most of the Game App, Augmented Reality App with Unity Game Engine and C# Language.</br>
   "
   url: "/posts/"
 
@@ -52,11 +52,12 @@ skills:
 - name: Git
   logo: "/images/sections/skills/git.png"
   summary: "Experienced with git-based development. Mostly, use Gitlab and Github. 
-  Also, have experience in working with Bitbucket."
+  Also, have experience in working with Bitbucket.</br>Familiar with CI/CD from gitlab or Action feature from Github"
   url: "/posts/"
 
 
 - name: Graphic Editor
   logo: "/images/sections/skills/inkscape.png"
-  summary: "Decent knowledge of Vector Graphic Editing with Inkscape and Adobe Illustrator. Basic knowledge of Adobe Photoshop for Editing Raster Image"
+  summary: "Decent knowledge of Vector Graphic Editing with Inkscape and Adobe Illustrator. </br>
+  Basic knowledge of Adobe Photoshop for Editing Raster Image"
   url: "/posts/"

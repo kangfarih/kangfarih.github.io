@@ -52,7 +52,7 @@ skills:
 - name: Git
   logo: "/images/sections/skills/git.png"
   summary: "Experienced with git-based development. Mostly, use Gitlab and Github. 
-  Also, have experience in working with Bitbucket.</br>Familiar with CI/CD from gitlab or Action feature from Github"
+  Also, have experience in working with Bitbucket.</br>Familiar with gitlab CI/CD or github workflow for personal project."
   url: "/posts/"
 
 

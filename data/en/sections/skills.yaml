@@ -13,7 +13,7 @@ section:
 skills:
 - name: Vanilla Web
   logo: "/images/sections/skills/html5.png"
-  summary: "Experience with classic web language like <b>HTML, CSS, Browser Javascript</b>. 
+  summary: "Experience with classic web language like <b>HTML, CSS, Vanilla Javascript</b>. 
   Also familiar with website library such as jQuery, Bootstrap, etc "
   url: "/posts/"
 

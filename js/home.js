@@ -105,7 +105,6 @@ var projectCards;
     }
 
     function showGithubStars() {
-      debugger
       // fix the github button class
       // we had set it to github-button-inactive in projects holder cards so that respective javascript
       // don't render it and replace respective span with shadow root

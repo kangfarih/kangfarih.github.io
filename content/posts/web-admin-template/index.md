@@ -40,4 +40,4 @@ As a Developer I made this project for Demonstration and Learning purpose.
 
 ### Footage
 Admin Template with Dummy Data
-{{< youtube o7uw5IDTAh8 >}}
+{{< youtube 7gykNNN7xsA >}}

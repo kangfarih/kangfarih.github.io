@@ -25,7 +25,7 @@ As a part of **Front-End** team I had responsiblity to implement all of game mec
 
 ### Footage
 Video footage
-{{<youtube 3Ce6JUX12bo>}}
+{{<youtube O2ZX-zOga-k>}}
 
-{{<youtube 5KxRuZ2Bno4>}}
+{{<youtube gCOwBLJyuPo>}}
 

@@ -34,4 +34,4 @@ Being part of **Front-End** team I had responsiblity to implement, maintain all 
 
 ### Footage
 Video of released Mobile Apps : 
-{{< youtube eyzItzNUElQ>}}
+{{< youtube EGjRiuCkSuM>}}

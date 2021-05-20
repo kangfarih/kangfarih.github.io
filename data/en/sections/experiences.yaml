@@ -11,6 +11,19 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Creatella Venture
+    url: "https://creatella.ventures/"
+    location: Singapore - Remote
+    # company overview
+    overview: Creatella is recognized company for their experience to build a startup from zero.
+  positions:
+  - designation: Front End Developer
+    start:  Apr 2020
+    responsibilities:
+    - Implement and test Front End Application such as web or mobile.
+    - Supportive and have a good Communication skill to complete the project.
+
+- company:
     name: Plexus Studio
     url: "https://www.plexus.id"
     location: Bandung

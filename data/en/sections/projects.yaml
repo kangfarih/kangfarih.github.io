@@ -71,7 +71,7 @@ projects:
   url: "/posts/company-profile/"
   summary: '
   The project is to build a company profile for VDP, Indessota, Natraco and 8Villages'
-  tags: ["professional", "mobile", "web"]
+  tags: ["professional", "web"]
 
 
 - name: Augmented Reality Apps

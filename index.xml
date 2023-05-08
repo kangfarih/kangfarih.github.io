@@ -6,7 +6,18 @@
     <description>Recent content on Farih Muhammad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Jan 2021 22:00:20 +0600</lastBuildDate><atom:link href="https://kangfarih.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 May 2023 22:00:20 +0600</lastBuildDate><atom:link href="https://kangfarih.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MySlife - Mobile App</title>
+      <link>https://kangfarih.github.io/posts/myslife-mobile-app/</link>
+      <pubDate>Sat, 06 May 2023 22:00:20 +0600</pubDate>
+      
+      <guid>https://kangfarih.github.io/posts/myslife-mobile-app/</guid>
+      <description>A mobile app of MySLife products.
+This the project that I am working in when I was a part of Creatella Team. There are a Mobile apps and Web Apps for Admin to manage the contents.
+Overview Role : Front End Programmer Type : Mobile Apps (User), Web Apps (Admin) Technology : React Native (Mobile App), React Js (Website) Released App : Playstore and AppStore Apps Feature : Browse posting, post, profile, chat, content, subscription, etc.</description>
+    </item>
+    
     <item>
       <title>Profile Website</title>
       <link>https://kangfarih.github.io/posts/profile-web/</link>

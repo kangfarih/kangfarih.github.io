@@ -6,7 +6,7 @@ menu:
     name: General Admin Template
     identifier: web-admin-template
     parent: 
-    weight: 1
+    weight: 99
 ---
 
 This project is made to demonstrate my experince from build an admin website.

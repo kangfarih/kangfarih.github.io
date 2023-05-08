@@ -49,7 +49,7 @@ params:
     favicon: /images/site/wind.png
 
   # GitHub repo URL of your site
-  gitRepo: https://gitlab.com/kangfarih/kangfarih.github.io/
+  gitRepo: https://github.com/kangfarih/kangfarih.github.io/
   gitBranch: master
 
   # specify whether you want to write some blog posts or not

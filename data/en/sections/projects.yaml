@@ -24,6 +24,17 @@ buttons:
 # your projects
 projects:
 
+- name: MySLife Mobile App
+  logo: /images/sections/skills/react-native.png
+  role: Front End Programmer
+  timeline: "2022"
+  url: "/posts/myslife-mobile-app/"
+  summary: '
+  The project is about a social media app for specific content.  
+  I am working on this as a part of Creatella, build two apps, mobile for user and web for admin.
+  All of the apps are made for mobile using react native framework.'
+  tags: ["professional", "mobile"]
+
 - name: Profile Web 
   logo: /images/sections/skills/js.png
   role: Developer

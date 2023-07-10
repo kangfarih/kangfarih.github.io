@@ -6,11 +6,11 @@
     <description>Recent content on Farih Muhammad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Jan 2023 22:00:20 +0600</lastBuildDate><atom:link href="https://kangfarih.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 May 2023 22:00:20 +0600</lastBuildDate><atom:link href="https://kangfarih.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MySlife - Mobile App</title>
       <link>https://kangfarih.github.io/posts/myslife-mobile-app/</link>
-      <pubDate>Fri, 06 Jan 2023 22:00:20 +0600</pubDate>
+      <pubDate>Sat, 06 May 2023 22:00:20 +0600</pubDate>
       
       <guid>https://kangfarih.github.io/posts/myslife-mobile-app/</guid>
       <description>A mobile app of MySLife products.
@@ -59,7 +59,7 @@ Overview Role : Front End Programmer Type : Web Apps Technology : Jquery &amp;am
 I was doing the project when still being part of Plexus.id Team.
 The application has been released to Google Playstore and can be downloaded.
 There is two kind of application, Mobile apps for End User and Web Apps for Admin.
-Overview Role : Front End Programmer Type : Mobile Apps (User), Web Apps (Admin) Technology : React Native (User), Web (Admin) Released Url : Playstore Apps Feature : User (Login, Logout, Profile, etc) Comic (Reading, Zoom in/out, Offline Read, Set as Favorite, etc) Social (Comment to a comic, comment to page, giving rate, etc) Transaction (Add/Remove to cart, Payment, etc) Others (Highlight, Read Article, Downloadn Image, etc) Web Admin (Add, Edit, Update, Delete all related apps data) Role In this project we are consist of Back End, Front End and UI Designer team.</description>
+Overview Role : Front End Programmer Type : Mobile Apps (User), Web Apps (Admin) Technology : React Native (User), Web (Admin) Released Url : Playstore Apps Feature : User (Login, Logout, Profile, etc) Comic (Reading, Zoom in/out, Offline Read, Set as Favourite, etc) Social (Comment to a comic, comment to page, giving rate, etc) Transaction (Add/Remove to cart, Payment, etc) Others (Highlight, Read Article, Downloadn Image, etc) Web Admin (Add, Edit, Update, Delete all related apps data) Role In this project we are consist of Back End, Front End and UI Designer team.</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@ Overview Role : Front End Programmer Type : Mobile Games Technology : Unity Game
       <guid>https://kangfarih.github.io/posts/ar-mobile-apps/</guid>
       <description>An augmented reality apps as simulator of First4Figures products.
 This the project that I am working in when I was a part of Plexus.id Team. There are a Mobile apps with augmented reality feature and Web Apps for Admin to manage the contents.
-Overview Role : Front End Programmer Type : Mobile Apps (User), Web Apps (Admin) Technology : Unity Game Engine (User), Web (Admin) Apps Feature : Augmented Reality Browes Item, Download, Save Record Picture &amp;amp; Video Web Admin (Add, Edit, Update, Delete all related apps data) Role There are Back End, Front End and UI Designer team who work for this project.</description>
+Overview Role : Front End Programmer Type : Mobile Apps (User), Web Apps (Admin) Technology : Unity Game Engine (User), Web (Admin) Apps Feature : Augmented Reality Browse Item, Download, Save Record Picture &amp;amp; Video Web Admin (Add, Edit, Update, Delete all related apps data) Role There are Back End, Front End and UI Designer team who work for this project.</description>
     </item>
     
     <item>

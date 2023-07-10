@@ -20,7 +20,7 @@ There are a Mobile apps with augmented reality feature and Web Apps for Admin to
 - Technology : Unity Game Engine (User), Web (Admin)
 - Apps Feature : 
   - Augmented Reality
-  - Browes Item, Download, Save Record Picture & Video
+  - Browse Item, Download, Save Record Picture & Video
   - Web Admin (Add, Edit, Update, Delete all related apps data)
 
 ### Role

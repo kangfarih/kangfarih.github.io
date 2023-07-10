@@ -21,7 +21,7 @@ There is two kind of application, Mobile apps for End User and Web Apps for Admi
 - Released Url : [Playstore](https://play.google.com/store/apps/details?id=id.plexus.ragasukmacomicapp)
 - Apps Feature : 
   - User (Login, Logout, Profile, etc)
-  - Comic (Reading, Zoom in/out, Offline Read, Set as Favorite, etc)
+  - Comic (Reading, Zoom in/out, Offline Read, Set as Favourite, etc)
   - Social (Comment to a comic, comment to page, giving rate, etc)
   - Transaction (Add/Remove to cart, Payment, etc)
   - Others (Highlight, Read Article, Downloadn Image, etc)

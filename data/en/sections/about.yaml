@@ -66,23 +66,23 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Self-Motivation
-  percentage: 85
+- name: Self Motivation
+  percentage: 100
   color: blue
-- name: Team Work
-  percentage: 90
+- name: Teamwork
+  percentage: 100
   color: yellow
 - name: Communication
-  percentage: 85
+  percentage: 100
   color: pink
 - name: Hard Working
-  percentage: 85
+  percentage: 100
   color: green
-- name: Fast Learner
-  percentage: 80
+- name: Adaptability
+  percentage: 100
   color: sky
 - name: Problem Solving
-  percentage: 85
+  percentage: 100
   color: orange
 # you can also provide color code instead of pre-defined color name
 # - name: Example 1

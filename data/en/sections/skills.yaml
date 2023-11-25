@@ -15,7 +15,7 @@ skills:
   logo: "/images/sections/skills/html5.png"
   summary: "Experience with classic web language like <b>HTML, CSS, Vanilla Javascript</b>. 
   Also familiar with website library such as jQuery, Bootstrap, etc "
-  url: "/posts/"
+  url: "/portfolios/"
 
 
 - name: Javascript Framework
@@ -23,21 +23,21 @@ skills:
   summary: "Experience build web app with <b>Vue.js</b>. 
   Familiar with with Node Js Environment and other Single Page Framework like <b>ReactJs</b> and <b>Vue.js</b>. </br>
   Sometimes I'm looking for learn new framework (like ExpressJs, Svelte) in my spare time"
-  url: "/posts/"
+  url: "/portfolios/"
 
 
 - name: React Native
   logo: "/images/sections/skills/react-native.png"
   summary: "Worked with most of the major mobile project with <b>React Native</b>. </br>
   Have a little experience using Android Studio with Java Language for a small project."
-  url: "/posts/"
+  url: "/portfolios/"
 
 
 - name: Unity Game Engine
   logo: "/images/sections/skills/unity3d.png"
   summary: "Build most of the Game App, Augmented Reality App with Unity Game Engine and C# Language.</br>
   "
-  url: "/posts/"
+  url: "/portfolios/"
 
 
 # - name: Prometheus
@@ -53,11 +53,11 @@ skills:
   logo: "/images/sections/skills/git.png"
   summary: "Experienced with git-based development. Mostly, use Gitlab and Github. 
   Also, have experience in working with Bitbucket.</br>Familiar with gitlab CI/CD or github workflow for personal project."
-  url: "/posts/"
+  url: "/portfolios/"
 
 
 - name: Graphic Editor
   logo: "/images/sections/skills/inkscape.png"
   summary: "Decent knowledge of Vector Graphic Editing with Inkscape and Adobe Illustrator. </br>
   Basic knowledge of Adobe Photoshop for Editing Raster Image"
-  url: "/posts/"
+  url: "/portfolios/"

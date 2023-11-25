@@ -28,7 +28,7 @@ projects:
   logo: /images/sections/skills/react-native.png
   role: Front End Programmer
   timeline: "2022"
-  url: "/posts/myslife-mobile-app/"
+  url: "/portfolios/myslife-mobile-app/"
   summary: '
   The project is about a social media app for specific content.  
   I am working on this as a part of Creatella, build two apps, mobile for user and web for admin.
@@ -40,7 +40,7 @@ projects:
   role: Developer
   timeline: "Jan 2021 - Present"
   repo: https://github.com/kangfarih/kangfarih.github.io
-  url: "/posts/profile-web/"  
+  url: "/portfolios/profile-web/"  
   summary: "
   This project is for this profile website. Modify from toha template made from hugo Static Site Generator to create kangfarih.github.io website.
    
@@ -53,7 +53,7 @@ projects:
   timeline: "Dec 2020 - Present"
   repo: https://github.com/kangfarih/portfolio-web-admin
   # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "/posts/web-admin-template/"  
+  url: "/portfolios/web-admin-template/"  
   # If your project is not a public repo but it has a website or any external details url then provide it here. 
   # don't provide "repo" and "url" simultaneously.
   summary: "
@@ -67,7 +67,7 @@ projects:
   logo: /images/sections/skills/html5.png
   role: Developer
   timeline: "2020"
-  url: "/posts/interactive-web-video/"
+  url: "/portfolios/interactive-web-video/"
   summary: '
   The project is about a web player with clickable tag.
   I am working this as a freelancer for DreamTechnology.
@@ -79,7 +79,7 @@ projects:
   logo: /images/sections/skills/js.png
   role: Front End Programmer
   timeline: "2019"
-  url: "/posts/company-profile/"
+  url: "/portfolios/company-profile/"
   summary: '
   The project is to build a company profile for VDP, Indessota, Natraco and 8Villages'
   tags: ["professional", "web"]
@@ -89,7 +89,7 @@ projects:
   logo: /images/sections/skills/unity3d.png
   role: Front End Programmer
   timeline: "2020"
-  url: "/posts/ar-mobile-apps/"
+  url: "/portfolios/ar-mobile-apps/"
   summary: '
   An augmented reality apps for simulate products of First4Figures.
   This the project that I am working with when I was part of Plexus.id Team. 
@@ -101,7 +101,7 @@ projects:
   logo: /images/sections/skills/unity3d.png
   role: Front End Programmer
   timeline: "2020"
-  url: "/posts/casual-game-prototype/"
+  url: "/portfolios/casual-game-prototype/"
   summary: '
   The project is to build a prototype of casual game. It is when I was part of Plexus.id Team, and
   as a Front End Programmer I am helping Game Designer and Graphic Designer to build this game prototype.'
@@ -112,7 +112,7 @@ projects:
   logo: /images/sections/skills/react-native.png
   role: Front End Programmer
   timeline: "2020"
-  url: "/posts/ragasukma-comic/"
+  url: "/portfolios/ragasukma-comic/"
   summary: '
   A mobile apps for reading and buy a comic made by Ragasukma.  
   I was doing the project when still being part of Plexus.id Team.  
@@ -125,7 +125,7 @@ projects:
   logo: /images/sections/skills/react-native.png
   role: Front End Programmer
   timeline: "2019"
-  url: "/posts/encrypted-audio-player/"
+  url: "/portfolios/encrypted-audio-player/"
   summary: '
   The project is about an audio player with encrypted data to play.  
   I am working this as a freelancer, build two similar app, one for user and other for admin.

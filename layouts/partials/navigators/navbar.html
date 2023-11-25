@@ -73,7 +73,7 @@
         {{ end }}
         {{ if site.Params.enableBlogPost }}
           <li class="nav-item">
-            <a class="nav-link" id="blog-link" href="{{ "/posts" | relLangURL }}">{{ i18n "posts" }}</a>
+            <a class="nav-link" id="blog-link" href="{{ "/portfolios" | relLangURL }}">{{ i18n "posts" }}</a>
           </li>
         {{ end }}
         {{ range  (index site.Data site.Language.Lang).site.customMenus }}

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Company Profile Website on Farih Muhammad</title>
+    <link>https://kangfarih.github.io/portfolios/company-profile/</link>
+    <description>Recent content in Company Profile Website on Farih Muhammad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 May 2020 22:00:20 +0600</lastBuildDate><atom:link href="https://kangfarih.github.io/portfolios/company-profile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>8Villages Website</title>
+      <link>https://kangfarih.github.io/portfolios/company-profile/8villages/</link>
+      <pubDate>Mon, 06 May 2019 22:00:20 +0600</pubDate>
+      
+      <guid>https://kangfarih.github.io/portfolios/company-profile/8villages/</guid>
+      <description>A website for company profile that I work with whe I was part of Plexus.id team. All of the apps made for web and build with plain web and jquery.
+Overview Role : Front End Programmer Type : Web Apps Technology : Jquery, Bootstrap, Vanilla Javascript Released Url : Website Apps Feature : Image Galery Carousel Responsive Contact Us Role As a Front-End programmer I had responsiblity to implement Web Design from client to web application.</description>
+    </item>
+    
+    <item>
+      <title>Indessota</title>
+      <link>https://kangfarih.github.io/portfolios/company-profile/indessota/</link>
+      <pubDate>Mon, 06 May 2019 22:00:20 +0600</pubDate>
+      
+      <guid>https://kangfarih.github.io/portfolios/company-profile/indessota/</guid>
+      <description>A website for company profile that I work with whe I was part of Plexus.id team. All of the apps made for web and build with plain web and jquery.
+Overview Role : Front End Programmer Type : Web Apps Technology : Jquery, Bootstrap, Vanilla Javascript Released Url : Website Apps Feature : Image Galery Carousel Responsive Role As a Front-End programmer I had responsiblity to implement Web Design from client to web application.</description>
+    </item>
+    
+    <item>
+      <title>Natraco Website</title>
+      <link>https://kangfarih.github.io/portfolios/company-profile/natraco/</link>
+      <pubDate>Mon, 06 May 2019 22:00:20 +0600</pubDate>
+      
+      <guid>https://kangfarih.github.io/portfolios/company-profile/natraco/</guid>
+      <description>A website for company profile that I work with whe I was part of Plexus.id team. All of the apps made for web and build with plain web and jquery.
+Overview Role : Front End Programmer Type : Web Apps Technology : Jquery, Bootstrap, Vanilla Javascript Released Url : Website Apps Feature : Image Galery Carousel Responsive Role As a Front-End programmer I had responsiblity to implement Web Design from client to web application.</description>
+    </item>
+    
+    <item>
+      <title>VDP Website</title>
+      <link>https://kangfarih.github.io/portfolios/company-profile/vdp/</link>
+      <pubDate>Fri, 01 Mar 2019 22:00:20 +0600</pubDate>
+      
+      <guid>https://kangfarih.github.io/portfolios/company-profile/vdp/</guid>
+      <description>I build a company profile website as a freelance side job.
+All of the apps made for web and build with plain web and jquery.
+Overview Role : Front End Programmer Type : Web Apps Technology : Bootstrap, VueJs Released Url : Website Apps Feature : Image Galery Carousel Responsive Role As a Front-End programmer I had responsiblity to implement Web Design from client to web application. And also build working application features at any required devices screen and browsers.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -62,16 +62,15 @@ experiences:
     responsibilities:
     - Build Front End part of School Lab Management Software 
 
-# - company:
-#     name: Freelancer
-#     url: 
-#     location: Intern Land
-#     overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-#   positions:
-#   - designation: Web Freelance
-#     start: Jun 2015
-#     end: Jan 2016
-#     responsibilities:
-#     - Count lost of interns.
-#     - Count more interns.
-#     - Count me as an intern.
+- company:
+    name: Freelancer
+    url: 
+    location: Remote
+    overview: Freelance Programmer
+  positions:
+  - designation: Front End Freelance
+    start: Aug 2020
+    end: Apr 2020
+    responsibilities:
+    - Build web, mobile apps for client
+    - Bug fixing

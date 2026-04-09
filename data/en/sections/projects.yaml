@@ -30,9 +30,9 @@ projects:
   timeline: "2022"
   url: "/portfolios/myslife-mobile-app/"
   summary: '
-  The project is about a social media app for specific content.  
-  I am working on this as a part of Creatella, build two apps, mobile for user and web for admin.
-  All of the apps are made for mobile using react native framework.'
+  A social media-style mobile app focused on curated content and community features.
+  Built the user mobile app and collaborated on the admin web app to manage content and operations.
+  Delivered using React Native with a focus on clean UI, maintainable components, and stable releases.'
   tags: ["professional", "mobile"]
 
 - name: Profile Web 
@@ -42,7 +42,8 @@ projects:
   repo: https://github.com/kangfarih/kangfarih.github.io
   url: "/portfolios/profile-web/"  
   summary: "
-  This project is for this profile website. Modify from toha template made from hugo Static Site Generator to create kangfarih.github.io website.
+  Personal portfolio website built with Hugo and customized from the Toha theme.
+  Focused on clean structure, performance, and easy content updates for long-term maintenance.
    
   "
   tags: ["template", "hobby", "web"]
@@ -57,9 +58,8 @@ projects:
   # If your project is not a public repo but it has a website or any external details url then provide it here. 
   # don't provide "repo" and "url" simultaneously.
   summary: "
-  This project is made to demonstrate my experince to build an admin website
-  when I was a part of Plexus.id Team.  
-  It was built with bootstrap based template and vanilla javascript.
+  Admin dashboard demo to showcase practical patterns for building internal tools.
+  Built with a Bootstrap-based UI and vanilla JavaScript, focusing on reusable UI blocks and clarity.
   "
   tags: ["professional", "hobby", "web"]
 
@@ -69,9 +69,8 @@ projects:
   timeline: "2020"
   url: "/portfolios/interactive-web-video/"
   summary: '
-  The project is about a web player with clickable tag.
-  I am working this as a freelancer for DreamTechnology.
-  All of the apps made for web and build with plain web and jquery.'
+  An interactive web video player with clickable hotspots/tags layered on top of the video.
+  Built as a freelance project with plain HTML/CSS/JavaScript and jQuery, optimized for browser compatibility.'
   tags: ["professional", "video","web"]
 
 
@@ -81,7 +80,8 @@ projects:
   timeline: "2019"
   url: "/portfolios/company-profile/"
   summary: '
-  The project is to build a company profile for VDP, Indessota, Natraco and 8Villages'
+  A set of responsive company profile websites for multiple brands (VDP, Indessota, Natraco, 8Villages).
+  Focused on clean presentation, performance, and maintainable content structure.'
   tags: ["professional", "web"]
 
 
@@ -91,9 +91,8 @@ projects:
   timeline: "2020"
   url: "/portfolios/ar-mobile-apps/"
   summary: '
-  An augmented reality apps for simulate products of First4Figures.
-  This the project that I am working with when I was part of Plexus.id Team. 
-  There are a Mobile apps with augmented reality feature and Web Apps for Admin to manage the content.'
+  Mobile AR application to visualize and simulate products for First4Figures.
+  Delivered with Unity and C#, including an admin web app to manage content and assets.'
   tags: ["professional", "mobile"]
 
   
@@ -103,8 +102,8 @@ projects:
   timeline: "2020"
   url: "/portfolios/casual-game-prototype/"
   summary: '
-  The project is to build a prototype of casual game. It is when I was part of Plexus.id Team, and
-  as a Front End Programmer I am helping Game Designer and Graphic Designer to build this game prototype.'
+  Casual game prototype built to validate core gameplay quickly.
+  Collaborated with game and graphic designers to implement mechanics, UI, and rapid iteration in Unity.'
   tags: ["professional", "mobile", "game"]
 
 
@@ -114,10 +113,8 @@ projects:
   timeline: "2020"
   url: "/portfolios/ragasukma-comic/"
   summary: '
-  A mobile apps for reading and buy a comic made by Ragasukma.  
-  I was doing the project when still being part of Plexus.id Team.  
-  The application has been released to Google Playstore and can be downloaded.  
-  There is two kind of application, Mobile apps for End User and Web Apps for Admin.'
+  Mobile app for reading and purchasing digital comics, released on Google Play Store.
+  Built the end-user mobile experience and supported an admin web app for content management.'
   tags: ["professional", "mobile"]
 
   
@@ -127,9 +124,8 @@ projects:
   timeline: "2019"
   url: "/portfolios/encrypted-audio-player/"
   summary: '
-  The project is about an audio player with encrypted data to play.  
-  I am working this as a freelancer, build two similar app, one for user and other for admin.
-  All of the apps are made for mobile using react native framework.'
+  Secure audio player that handles encrypted audio content for playback.
+  Built as a freelance project with two apps (user and admin) using React Native, focusing on reliability and user experience.'
   tags: ["professional", "mobile"]
 
   

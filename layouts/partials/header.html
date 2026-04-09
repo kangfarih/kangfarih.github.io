@@ -2,8 +2,8 @@
 {{ $favicon := "/images/favicon.png" }}
 
 {{/* if favicon is provided in the config, then use that */}}
-{{ if site.Params.logo.favicon }}
-  {{ $favicon = site.Params.logo.favicon }}
+{{ if (site).Params.logo.favicon }}
+  {{ $favicon = (site).Params.logo.favicon }}
 {{ end }}
 
 {{/* resize the favicon. don't resize svg because it is not supported */}}
@@ -33,7 +33,7 @@
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:url" content="{{ site.BaseURL }}">
+<meta property="twitter:url" content="{{ (site).BaseURL }}">
 <meta property="twitter:title" content="{{ .Site.Title }} - FrontEnd Developer's Profile and Portfolio">
 <meta property="twitter:description" content="Professional FrontEnd Developer from 2016 till now. Build a web, mobile or game. Love technology and build something. Determined to become a good engineer.">
 <meta property="twitter:image" content="{{ .Site.BaseURL }}{{"images/screen.png"}}">

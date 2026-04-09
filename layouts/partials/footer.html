@@ -1,22 +1,22 @@
-{{ $author:= site.Data.author }}
-{{ if (index site.Data site.Language.Lang).author }}
-  {{ $author = (index site.Data site.Language.Lang).author }}
+{{ $author:= (site).Data.author }}
+{{ if (index (site).Data (site).Language.Lang).author }}
+  {{ $author = (index (site).Data (site).Language.Lang).author }}
 {{ end }}
 
 
-{{ $config:= site.Data.site }}
-{{ if (index site.Data site.Language.Lang).site }}
-  {{ $config = (index site.Data site.Language.Lang).site }}
+{{ $config:= (site).Data.site }}
+{{ if (index (site).Data (site).Language.Lang).site }}
+  {{ $config = (index (site).Data (site).Language.Lang).site }}
 {{ end }}
 
-{{ $sections:= site.Data.sections }}
-{{ if (index site.Data site.Language.Lang).sections }}
-  {{ $sections = (index site.Data site.Language.Lang).sections }}
+{{ $sections:= (site).Data.sections }}
+{{ if (index (site).Data (site).Language.Lang).sections }}
+  {{ $sections = (index (site).Data (site).Language.Lang).sections }}
 {{ end }}
 
 {{ $copyrightNotice := "© 2020 Copyright."}}
-{{ if (index site.Data site.Language.Lang).site }}
-  {{ $siteConfig := (index site.Data site.Language.Lang).site }}
+{{ if (index (site).Data (site).Language.Lang).site }}
+  {{ $siteConfig := (index (site).Data (site).Language.Lang).site }}
   {{ if $siteConfig.copyright }}
     {{ $copyrightNotice = $siteConfig.copyright }}
   {{ end }}
@@ -73,7 +73,7 @@
         </ul>
       </div>
       {{ end }}
-      {{ if site.Params.newsletter.enable }}
+      {{ if (site).Params.newsletter.enable }}
       <div class="col-md-4 col-sm-12">
         <!-- <h5>Newsletter</h5> -->
         <p>{{ i18n "newsletter_text" }}</p>

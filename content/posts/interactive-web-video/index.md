@@ -10,7 +10,7 @@ menu:
 ---
 
 The project is about a web player with clickable tag.
-I am working this as a freelancer for [DreamTechnology]("http://dreamtechnology.co.id/").
+I am working this as a freelancer for [DreamTechnology](http://dreamtechnology.co.id/).
 All of the apps made for web and build with plain web and jquery.
 
 ---

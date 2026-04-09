@@ -11,53 +11,47 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Vanilla Web
+- name: Frontend Engineering
+  logo: "/images/sections/skills/js.png"
+  summary: "Build scalable web apps with **Next.js**, **React**, **TypeScript**, and **Redux Toolkit** (routing, SSR/CSR, state management, performance)."
+  url: "/portfolios/"
+
+- name: Web Fundamentals & UI
   logo: "/images/sections/skills/html5.png"
-  summary: "Experience with classic web language like <b>HTML, CSS, Vanilla Javascript</b>. 
-  Also familiar with website library such as jQuery, Bootstrap, etc "
+  summary: "Strong foundation in **HTML/CSS/JavaScript** and practical UI work with **Tailwind CSS**, **PostCSS**, **Bootstrap**, and **jQuery**."
   url: "/portfolios/"
 
+- name: Authentication (Azure AD)
+  logo: "/images/sections/skills/cloud.png"
+  summary: "Integrate secure sign-in and token flows using **MSAL** (msal-browser / msal-react) and app-level authorization patterns."
+  url: "/portfolios/"
 
-- name: Javascript Framework
+- name: Real-time Features
   logo: "/images/sections/skills/node-js.png"
-  summary: "Experience build web app with <b>Vue.js</b>. 
-  Familiar with with Node Js Environment and other Single Page Framework like <b>ReactJs</b> and <b>Vue.js</b>. </br>
-  Sometimes I'm looking for learn new framework (like ExpressJs, Svelte) in my spare time"
+  summary: "Build responsive experiences using **Socket.IO** and server-sent events (SSE) for streaming updates."
   url: "/portfolios/"
 
+- name: Testing & Code Quality
+  logo: "/images/sections/skills/git.png"
+  summary: "Ship reliable features with **Vitest**, **Testing Library**, **ESLint**, and **SonarQube** quality gates."
+  url: "/portfolios/"
+
+- name: Git & Delivery Workflow
+  logo: "/images/sections/skills/git.png"
+  summary: "Work comfortably with **Git** on GitHub/GitLab/Bitbucket, including branching workflows and CI/CD basics."
+  url: "/portfolios/"
 
 - name: React Native
   logo: "/images/sections/skills/react-native.png"
-  summary: "Worked with most of the major mobile project with <b>React Native</b>. </br>
-  Have a little experience using Android Studio with Java Language for a small project."
+  summary: "Deliver cross-platform mobile apps using **React Native**, with experience debugging native issues when needed."
   url: "/portfolios/"
-
 
 - name: Unity Game Engine
   logo: "/images/sections/skills/unity3d.png"
-  summary: "Build most of the Game App, Augmented Reality App with Unity Game Engine and C# Language.</br>
-  "
+  summary: "Build games and interactive experiences with **Unity** and **C#**, including AR projects."
   url: "/portfolios/"
 
-
-# - name: Prometheus
-#   logo: "/images/sections/skills/prometheus.png"
-#   summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-#   url: "https://prometheus.io/"
-
-# - name: Linux
-#   logo: "/images/sections/skills/linux.png"
-#   summary: "Using as the main operating system. Capable of writing bash/shell scripts."
-
-- name: Git
-  logo: "/images/sections/skills/git.png"
-  summary: "Experienced with git-based development. Mostly, use Gitlab and Github. 
-  Also, have experience in working with Bitbucket.</br>Familiar with gitlab CI/CD or github workflow for personal project."
-  url: "/portfolios/"
-
-
-- name: Graphic Editor
+- name: Design Tools
   logo: "/images/sections/skills/inkscape.png"
-  summary: "Decent knowledge of Vector Graphic Editing with Inkscape and Adobe Illustrator. </br>
-  Basic knowledge of Adobe Photoshop for Editing Raster Image"
+  summary: "Comfortable working with design assets using **Inkscape**, **Adobe Illustrator**, and basic **Photoshop**."
   url: "/portfolios/"

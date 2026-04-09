@@ -21,7 +21,7 @@
           <ul class="tree" id="tree">
             <li id="list-heading"><a href="{{ "/portfolios" | relLangURL }}" data-filter="all">{{ i18n "posts" }}</a></li>
             <div class="subtree">
-                {{ partial "navigators/sidebar.html" (dict "menus" site.Menus.sidebar "ctx" .) }}
+                {{ partial "navigators/sidebar.html" (dict "menus" (site).Menus.sidebar "ctx" .) }}
             </div>
           </ul>
         </div>
@@ -35,7 +35,7 @@
   <div class="content">
     <div class="container p-0 read-area">
       <!--Hero Area-->
-      <div class="hero-area col-sm-12" id="hero-area" style='background-image: url({{ strings.TrimSuffix "/" site.BaseURL }}{{ partial "helpers/get-hero.html" . }});'>
+      <div class="hero-area col-sm-12" id="hero-area" style='background-image: url({{ strings.TrimSuffix "/" (site).BaseURL }}{{ partial "helpers/get-hero.html" . }});'>
       </div>
 
       <!--Content Start-->
@@ -55,9 +55,9 @@
         </div>
 
         <!--- Improve this page button --->
-        {{ if site.Params.GitRepo }}
+        {{ if (site).Params.GitRepo }}
           <div class="btn-improve-page">
-              <a id="editLink" target="_blank" href="{{ site.Params.GitRepo }}/edit/{{ site.Params.GitBranch }}/content/{{ .File.Path }}">
+              <a id="editLink" target="_blank" href="{{ (site).Params.GitRepo }}/edit/{{ (site).Params.GitBranch }}/content/{{ .File.Path }}">
                 <i class="fas fa-code-branch"></i>
                 {{ i18n "improve_this_page" }}
               </a>
@@ -68,10 +68,6 @@
       <hr />
         {{ partial "navigators/next-prev-navigator.html" . }}
       <hr />
-      <!-- Add Disqus forum  -->
-      {{ if site.DisqusShortname }}
-          {{ partial "disqus.html" . }}
-      {{ end }}
       </div>
     </div>
   </div>
@@ -83,7 +79,7 @@
 
 {{ define "toc" }}
   <section class="toc-section" id="toc-section">
-    {{ if site.Params.enableTOC }}
+    {{ if (site).Params.enableTOC }}
     <div class="toc-holder">
       <h5 class="text-center pl-3">{{ i18n "toc_heading" }}</h5>
       <hr>

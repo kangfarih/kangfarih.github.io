@@ -11,54 +11,74 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    # company overview
-    overview: Example Co. adalah perusahaan yang dikenal luas untuk pengembangan cloud-native. Itu membangun alat untuk Kubernetes.
+    name: PT Appfuxion Consulting Indonesia
+    url: "https://id.linkedin.com/company/pt-appfuxion-consulting-indonesia"
+    location: Jakarta, Indonesia
+    overview: AppFuxion Consulting menyediakan solusi digital dan layanan software testing untuk klien di wilayah Asia-Pasifik.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
+  - designation: Front End Engineer
+    start: Mei 2023
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Okt 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Membangun dan memelihara aplikasi web production menggunakan pola modern React/Next.js dan TypeScript.
+    - Integrasi autentikasi dan alur token yang aman menggunakan Azure AD (MSAL).
+    - Mengimplementasikan fitur real-time dan streaming data jika dibutuhkan.
+    - Kolaborasi dengan QA dan tim lintas fungsi untuk deliver fitur dengan kualitas dan timeline yang terjaga.
+    - Meningkatkan workflow developer melalui linting, automated checks, dan tooling delivery.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.preexample.com"
-    location: Nowhere
-    overview: PreExample Co. adalah perusahaan gateway untuk masuk ke Example co. Jadi, tidak ada yang istimewa di sini.
+    name: Creatella Venture
+    url: "https://creatella.ventures/"
+    location: Singapore - Remote
+    overview: Creatella dikenal membangun produk startup dari nol sampai rilis dengan tim yang kecil dan cepat.
   positions:
-  - designation: Software Engineer
-    start: Maret 2016
-    end: Mei 2017
+  - designation: Front End Developer
+    start: Apr 2021
+    end: Apr 2023
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Mengembangkan dan merilis fitur untuk aplikasi web dan mobile.
+    - Menerjemahkan requirement menjadi UI yang rapi, reusable component, dan kode yang mudah dirawat.
+    - Kolaborasi dengan designer dan backend untuk konsistensi UX dan integrasi API.
+    - Menulis test dan melakukan regression check untuk menjaga stabilitas rilis.
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.intern.com"
-    location: Intern Land
-    overview: Perusahaan penghitung magang (ICC) bertanggung jawab untuk menghitung Insinyur magang di seluruh dunia.
+    name: Plexus Studio
+    url: "https://www.plexus.id"
+    location: Bandung
+    overview: Plexus.id dikenal berpengalaman mengerjakan game, web, mobile, AR, dan VR.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Front End Engineer
+    start: Mar 2018
+    end: Aug 2020
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Membangun dan memelihara fitur front-end untuk project web dan mobile, termasuk pengalaman interaktif.
+    - Integrasi API serta memastikan UI responsif dan kompatibel di berbagai device dan browser.
+    - Kolaborasi dengan designer dan tim engineering untuk deliver dengan kualitas dan tepat waktu.
+    - Mempelajari dan menerapkan tools/pattern baru untuk meningkatkan efisiensi development.
+
+- company:
+    name: Gema Cipta Piranti
+    url: https://www.linkedin.com/company/pt-gcp/about/
+    location: Bandung
+    overview: Software development company yang membangun aplikasi bisnis untuk klien lokal.
+  positions:
+  - designation: Front End Programmer
+    start: March 2016
+    end: May 2017
+    responsibilities:
+    - Membangun modul front-end untuk software manajemen lab sekolah.
+    - Implementasi CRUD, validasi form, dan komponen UI untuk kebutuhan operasional.
+    - Maintenance fitur yang sudah ada melalui bug fixing dan enhancement bertahap.
+
+- company:
+    name: Freelancer
+    url:
+    location: Remote
+    overview: Freelance Programmer
+  positions:
+  - designation: Front End Freelance
+    start: Aug 2020
+    end: Apr 2021
+    responsibilities:
+    - Mengerjakan project web dan mobile dari requirement sampai implementasi.
+    - Integrasi third-party API dan troubleshooting issue lintas browser/device.
+    - Maintenance, bug fixing, dan improvement berdasarkan feedback klien.

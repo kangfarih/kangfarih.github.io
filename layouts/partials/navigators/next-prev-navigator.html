@@ -1,9 +1,9 @@
 <div class="row next-prev-navigator">
 {{ $currentPage := . }}
-{{ range (where site.RegularPages.ByDate "Type" "in" site.Params.mainSections )}}
+{{ range (where (site).RegularPages.ByDate "Type" "in" (site).Params.mainSections )}}
   {{ if eq .RelPermalink  $currentPage.RelPermalink }}
     {{ if .Next }}
-      {{ if (in site.Params.mainSections .Next.Type) }}
+      {{ if (in (site).Params.mainSections .Next.Type) }}
       <div class="col-md-6 previous-article">
         <a href="{{.Next.RelPermalink}}" class="btn btn-outline-info">
           <span><i class="fas fa-chevron-circle-left"></i> {{ i18n "prev" }}</span>
@@ -14,10 +14,10 @@
       {{ end }}
     {{ end }}
     {{ if .Prev }}
-      {{ if (in site.Params.mainSections .Prev.Type)  }}
+      {{ if (in (site).Params.mainSections .Prev.Type)  }}
         {{ $columnWidth:="col-md-12" }}
         {{ if .Next }}
-          {{ if (in site.Params.mainSections .Next.Type) }}
+          {{ if (in (site).Params.mainSections .Next.Type) }}
               {{ $columnWidth = "col-md-6" }}
           {{ end }}
         {{ end}}

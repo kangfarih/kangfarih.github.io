@@ -6,7 +6,11 @@
       </div>
       <div class="card-body">
         <h5 class="card-title">{{ .Title }}</h5>
-        <p class="card-text post-summary">{{ .Summary }}</p>
+        {{ $desc := .RawContent }}
+        {{ $desc = replaceRE "(?s)\\r?\\n---\\r?\\n.*$" "" $desc }}
+        {{ $desc = replaceRE "(?s)\\r?\\n###\\s+Overview.*$" "" $desc }}
+        {{ $desc = strings.TrimSpace ($desc | markdownify | plainify) }}
+        <p class="card-text post-summary">{{ $desc }}</p>
       </div>
       <div class="card-footer">
         <span class="float-left">{{ .Date.Format "January 2, 2006" }}</span>

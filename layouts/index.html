@@ -23,7 +23,7 @@
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="{{ site.BaseURL }}">
+    <meta property="twitter:url" content="{{ (site).BaseURL }}">
     <meta property="twitter:title" content="{{ .Site.Title }} - FrontEnd Developer's Profile and Portfolio">
     <meta property="twitter:description" content="Professional FrontEnd Developer from 2016 till now. Build a web, mobile or game. Love technology and build something. Determined to become a good engineer.">
     <meta property="twitter:image" content="{{ .Site.BaseURL }}{{"images/screen.png"}}">
@@ -42,10 +42,7 @@
     <link rel="stylesheet" href="{{ "/css/sections/recent-posts.css" | relURL }}"/>
     <link rel="stylesheet" href="{{ "/css/sections/achievements.css" | relURL }}"/>
 
-    <!-- Add Google Analytics if enabled in configuration -->
-    {{ if site.GoogleAnalytics }}
-        {{ template "_internal/google_analytics_async.html" . }}
-    {{ end }}
+    {{ template "_internal/google_analytics.html" . }}
   </head>
   <body data-spy="scroll" data-target="#top-navbar" data-offset="100">
 
@@ -56,9 +53,9 @@
     {{- partial "sections/home.html" . -}}
 
     <!--- ADD OPTIONAL SECTIONS ----------->
-    {{ $sections:= site.Data.sections }}
-    {{ if (index site.Data site.Language.Lang).sections }}
-      {{ $sections = (index site.Data site.Language.Lang).sections }}
+    {{ $sections:= (site).Data.sections }}
+    {{ if (index (site).Data (site).Language.Lang).sections }}
+      {{ $sections = (index (site).Data (site).Language.Lang).sections }}
     {{ end }}
 
     {{ if $sections }}

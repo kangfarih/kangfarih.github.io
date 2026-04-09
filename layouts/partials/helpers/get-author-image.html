@@ -1,6 +1,6 @@
-{{ $author:= site.Data.author }}
-{{ if (index site.Data site.Language.Lang).author }}
-  {{ $author = (index site.Data site.Language.Lang).author }}
+{{ $author:= (site).Data.author }}
+{{ if (index (site).Data (site).Language.Lang).author }}
+  {{ $author = (index (site).Data (site).Language.Lang).author }}
 {{ end }}
 
 {{/* default author image */}}
@@ -26,4 +26,3 @@
 
 {{/*  return the author image link  */}}
 {{ return $authorImage.RelPermalink }}
-

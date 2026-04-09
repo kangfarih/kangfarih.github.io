@@ -5,11 +5,6 @@
         {{ if .logo }}
           {{ $logoImage := resources.Get .logo }}
 
-          {{/*  svg don't support "Fit" operation   */}}
-          {{ if ne $logoImage.MediaType.SubType "svg" }}
-            {{ $logoImage := $logoImage.Fit "24x24" }}
-          {{ end }}
-
           <img class="card-img-xs" src="{{ $logoImage.RelPermalink }}" alt="{{ .name }}" />
         {{ end }}
         <h5 class="card-title">{{ .name }}</h5>

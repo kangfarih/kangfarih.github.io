@@ -3,11 +3,11 @@
 {{ $invertedLogo := "/images/inverted-logo.png" }}
 
 {{/*  if custom logo is used, them  */}}
-{{ if site.Params.logo.main }}
-  {{ $mainLogo = site.Params.logo.main }}
+{{ if (site).Params.logo.main }}
+  {{ $mainLogo = (site).Params.logo.main }}
 {{ end }}
-{{ if site.Params.logo.inverted }}
-  {{ $invertedLogo = site.Params.logo.inverted }}
+{{ if (site).Params.logo.inverted }}
+  {{ $invertedLogo = (site).Params.logo.inverted }}
 {{ end }}
 
 {{/* resize the logos. don't resize svg because it is not supported */}}
@@ -23,16 +23,16 @@
 {{ end }}
 {{ $invertedLogo = $invertedLogo.RelPermalink}}
 
-{{ $sections := site.Data.sections }}
-{{ if (index site.Data site.Language.Lang).sections }}
-  {{ $sections = (index site.Data site.Language.Lang).sections }}
+{{ $sections := (site).Data.sections }}
+{{ if (index (site).Data (site).Language.Lang).sections }}
+  {{ $sections = (index (site).Data (site).Language.Lang).sections }}
 {{ end }}
 
 <nav class="navbar navbar-expand-xl top-navbar initial-navbar" id="top-navbar">
   <div class="container">
-    <a class="navbar-brand" href="{{ site.BaseURL | relLangURL }}">
+    <a class="navbar-brand" href="{{ (site).BaseURL | relLangURL }}">
       <img src="{{ $invertedLogo }}" id="logo">
-      {{- site.Title -}}
+      {{- (site).Title -}}
     </a>
     <button
       class="navbar-toggler navbar-dark"
@@ -63,20 +63,20 @@
           {{- end }}
         {{- end }}
         {{ $hasCustomMenus:= false }}
-        {{ if and site.Params.customMenus }}
-          {{ if gt (len site.Params.customMenus) 0 }}
+        {{ if and (site).Params.customMenus }}
+          {{ if gt (len (site).Params.customMenus) 0 }}
             {{ $hasCustomMenus = true }}
           {{ end }}
         {{ end }}
-        {{ if (or site.Params.enableBlogPost $hasCustomMenus) }}
+        {{ if (or (site).Params.enableBlogPost $hasCustomMenus) }}
           <div class="dropdown-divider" id="top-navbar-divider"></div>
         {{ end }}
-        {{ if site.Params.enableBlogPost }}
+        {{ if (site).Params.enableBlogPost }}
           <li class="nav-item">
             <a class="nav-link" id="blog-link" href="{{ "/portfolios" | relLangURL }}">{{ i18n "posts" }}</a>
           </li>
         {{ end }}
-        {{ range  (index site.Data site.Language.Lang).site.customMenus }}
+        {{ range  (index (site).Data (site).Language.Lang).site.customMenus }}
           <li class="nav-item">
             <a class="nav-link" href="{{ .url }}">{{ .name }}</a>
           </li>

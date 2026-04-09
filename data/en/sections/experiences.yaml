@@ -11,25 +11,42 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: PT Appfuxion Consulting Indonesia
+    url: "https://id.linkedin.com/company/pt-appfuxion-consulting-indonesia"
+    location: Jakarta, Indonesia
+    overview: AppFuxion Consulting provides digital solutions and software testing services for clients across the Asia-Pacific region.
+  positions:
+  - designation: Front End Engineer
+    start: May 2023
+    responsibilities:
+    - Build and maintain production web applications using modern React/Next.js and TypeScript patterns.
+    - Integrate authentication and secure session flows using Azure AD (MSAL).
+    - Implement real-time user experiences and data streaming where needed.
+    - Collaborate closely with QA and cross-functional teams to deliver features with quality and predictable timelines.
+    - Improve developer workflow through linting, automated checks, and delivery tooling.
+
+- company:
     name: Creatella Venture
     url: "https://creatella.ventures/"
     location: Singapore - Remote
     # company overview
-    overview: Creatella is recognized company for their experience to build a startup from zero.
+    overview: Creatella is known for building startup products from zero to launch with small, fast-moving teams.
   positions:
   - designation: Front End Developer
     start:  Apr 2021
     end: Apr 2023
     responsibilities:
-    - Implement and test Front End Application such as web or mobile.
-    - Supportive and have a good Communication skill to complete the project.
+    - Develop and ship user-facing features for web and mobile applications.
+    - Translate product requirements into clean UI, reusable components, and maintainable code.
+    - Work closely with designers and backend engineers to deliver consistent UX and API integrations.
+    - Write tests and perform regression checks to keep releases stable.
 
 - company:
     name: Plexus Studio
     url: "https://www.plexus.id"
     location: Bandung
     # company overview
-    overview: Plexus.id recognized company for their experience in games, web based, mobile, AR and VR apps Development.
+    overview: Plexus Studio delivers interactive products across games, web, mobile, AR, and VR.
   positions:
   # - designation: Senior Software Engineer
   #   start: Mar 2018
@@ -46,31 +63,35 @@ experiences:
     start:  Mar 2018
     end: Aug 2020
     responsibilities:
-    - Implement and test Front End Application such as web, mobile, games, AR dan VR.
-    - Supportive and have a good Communication skill to complete the project.
-    - Learn New Technology for efficient and effective development process. 
+    - Build and maintain front-end features across web and mobile projects, including interactive experiences.
+    - Integrate APIs and ensure responsive, accessible UI across devices and browsers.
+    - Collaborate with designers and the wider engineering team to deliver on time and with quality.
+    - Continuously learn and apply new tools and patterns to improve development efficiency.
 
 - company:
     name: Gema Cipta Piranti
     url: https://www.linkedin.com/company/pt-gcp/about/
     location: Bandung
-    overview: Software Dev Company
+    overview: Software development company delivering business applications for local clients.
   positions:
   - designation: Front End Programmer
     start: March 2016
     end: May 2017
     responsibilities:
-    - Build Front End part of School Lab Management Software 
+    - Build front-end modules for a school lab management system.
+    - Implement CRUD screens, form validation, and dashboard-style UI components.
+    - Maintain and improve existing features through bug fixes and iterative enhancements.
 
 - company:
     name: Freelancer
     url: 
     location: Remote
-    overview: Freelance Programmer
+    overview: Freelance developer delivering web and mobile solutions for clients.
   positions:
   - designation: Front End Freelance
     start: Aug 2020
-    end: Apr 2020
+    end: Apr 2021
     responsibilities:
-    - Build web, mobile apps for client
-    - Bug fixing
+    - Deliver web and mobile projects from requirements to implementation.
+    - Integrate third-party APIs and troubleshoot cross-browser or device-specific issues.
+    - Provide maintenance, bug fixes, and improvements based on client feedback.

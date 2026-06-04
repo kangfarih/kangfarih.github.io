@@ -1,0 +1,102 @@
+{
+  "version": "1",
+  "generatedAt": "2026-04-12T14:32:22.781Z",
+  "items": [
+    {
+      "href": "/portfolios/company-profile/8villages/",
+      "title": "8Villages Website",
+      "summary": "Company profile website built while working at Plexus.id. Implemented a responsive marketing site with gallery, carousel, and contact sections.",
+      "date": "May 6, 2019",
+      "hero": "/portfolios/company-profile/8villages/hero.jpg",
+      "bodyText": "Company profile website built as part of my work at . Overview Role: Front End Programmer Type: Web App Technology: jQuery, Bootstrap, Vanilla JavaScript Release: Features: Image gallery Carousel Responsive layout Contact section Role As the front end developer, I implemented the UI based on the client’s design requirements and ensured the site worked well across common screen sizes and browsers. Footage Video footage:"
+    },
+    {
+      "href": "/portfolios/casual-game-prototype/",
+      "title": "Casual Game Prototype",
+      "summary": "Casual mobile game prototype built in Unity. I implemented gameplay mechanics and helped the team iterate quickly with designers.",
+      "date": "February 6, 2020",
+      "hero": "/portfolios/casual-game-prototype/hero.jpg",
+      "bodyText": "The goal of this project was to build a casual game prototype. I worked on it as part of the team, collaborating with game and graphic designers. Overview Role: Front End Programmer Type: Mobile Game Prototype Technology: Unity Focus: Prototype gameplay and fast iteration Role I worked with game and graphic designers. As the front end programmer, I implemented the gameplay mechanics and integrated assets into a playable prototype. Footage Video footage:"
+    },
+    {
+      "href": "/portfolios/encrypted-audio-player/",
+      "title": "Encrypted Audio",
+      "summary": "Mobile audio player for encrypted content, built as a freelance project. Includes a user app for playback and an admin app for uploading and managing audio files.",
+      "date": "January 6, 2019",
+      "hero": "/portfolios/encrypted-audio-player/hero.jpg",
+      "bodyText": "This is a project about an audio player with encrypted data to play. I built two mobile applications as a freelance project: a user app and an admin app. Both are built with React Native. Overview Role: Front End Programmer Type: Mobile Apps (User and Admin) Technology: React Native Release: Features: Download and audio playback controls (play/pause/seek) Encryption/decryption flow for protected audio content Admin app to upload and delete encrypted audio data Role I collaborated with a backend engineer. As the front end programmer, I implemented and maintained the features for both the user and admin mobile apps. Footage Video footage:"
+    },
+    {
+      "href": "/portfolios/web-admin-template/",
+      "title": "General Admin Template",
+      "summary": "Admin dashboard demo showcasing patterns I use to build internal tools: CRUD screens, tables, validation, and reusable UI blocks.",
+      "date": "June 1, 2020",
+      "hero": "/portfolios/web-admin-template/hero.png",
+      "bodyText": "This project demonstrates my experience building an admin dashboard, based on work I did as part of the team. It uses a Bootstrap based template and vanilla JavaScript for practical, easy to extend UI patterns. Overview Role: Developer Type: Web App, REST API Technology: Backend: Express.js MongoDB Frontend: Bootstrap admin template: jQuery DataTables Parsley.js Font Awesome Summernote Repo: Features: Demo data and sample admin screens Work in progress enhancements Role I built this project as a portfolio demo and learning sandbox for admin dashboard patterns. Footage Admin Template with Dummy Data"
+    },
+    {
+      "href": "/portfolios/company-profile/indessota/",
+      "title": "Indessota",
+      "summary": "Company profile website built while working at Plexus.id. Implemented a responsive marketing site with gallery and carousel sections.",
+      "date": "May 6, 2019",
+      "hero": "/portfolios/company-profile/indessota/hero.jpg",
+      "bodyText": "Company profile website built as part of my work at . Overview Role: Front End Programmer Type: Web App Technology: jQuery, Bootstrap, Vanilla JavaScript Release: Features: Image gallery Carousel Responsive layout Role As the front end developer, I implemented the UI based on the client’s design requirements and ensured the site worked well across common screen sizes and browsers. Footage Video footage:"
+    },
+    {
+      "href": "/portfolios/interactive-web-video/",
+      "title": "Interactive Web Video",
+      "summary": "Interactive web video player with clickable in-video hotspots. Built as a freelance project using vanilla JavaScript and jQuery, with cross-browser compatibility in mind.",
+      "date": "April 6, 2020",
+      "hero": "/portfolios/interactive-web-video/hero.jpg",
+      "bodyText": "An interactive web video player with clickable tags/hotspots. I built this as a freelance project for using vanilla JavaScript and jQuery. Overview Role: Front End Programmer Type: Web App Technology: jQuery, Vanilla JavaScript Release: Features: Custom video controls Clickable in video tag links Fullscreen support Safari and iOS compatibility Role As the front end developer, I implemented and maintained the features, ensuring the player worked reliably across different screen sizes and browsers. Footage Video footage:"
+    },
+    {
+      "href": "/portfolios/ar-mobile-apps/",
+      "title": "Mobile Augmented Reality",
+      "summary": "Mobile AR product simulator for First4Figures. Built with Unity for the user app and paired with an admin web panel for managing content.",
+      "date": "January 6, 2020",
+      "hero": "/portfolios/ar-mobile-apps/hero.jpg",
+      "bodyText": "An augmented reality apps as simulator of products. I worked on this project as part of the team. It includes a mobile app with AR features and an admin web app to manage content. Overview Role: Front End Programmer Type: Mobile App (User), Web App (Admin) Technology: Unity (User), Web (Admin) Features: Augmented reality product visualization Browse items, download assets, capture photos/videos Admin panel to create/update/delete app data Role I collaborated with backend engineers and a UI designer as part of the front end team. I was responsible for implementing and maintaining the app features across both the mobile client and the admin web panel. Footage Video footage:"
+    },
+    {
+      "href": "/portfolios/myslife-mobile-app/",
+      "title": "MySlife - Mobile App",
+      "summary": "Cross-platform mobile app for MySLife (iOS/Android). I built and maintained key user features in React Native and supported the admin web app used to manage content.",
+      "date": "May 6, 2023",
+      "hero": "/portfolios/myslife-mobile-app/hero.png",
+      "bodyText": "A mobile app of products. I worked on this project as part of the team. It includes a user facing mobile app and an admin web app to manage content and operations. Overview Role: Front End Programmer Type: Mobile App (User), Web App (Admin) Technology: React Native (Mobile), React (Web) Release: , Features: Feed browsing and posting Profile and chat Content and subscription flows Admin web panel Role I collaborated with backend engineers and a UI designer as part of the front end team. During development, I built and shipped features such as categories, profile, and chat. After release, I continued maintaining the app and delivering feature updates, including content and subscription improvements. Footage Video footage:"
+    },
+    {
+      "href": "/portfolios/company-profile/natraco/",
+      "title": "Natraco Website",
+      "summary": "Company profile website built while working at Plexus.id. Implemented a responsive marketing site with gallery and carousel sections.",
+      "date": "May 6, 2019",
+      "hero": "/portfolios/company-profile/natraco/hero.jpg",
+      "bodyText": "Company profile website built as part of my work at . Overview Role: Front End Programmer Type: Web App Technology: jQuery, Bootstrap, Vanilla JavaScript Release: Features: Image gallery Carousel Responsive layout Role As the front end developer, I implemented the UI based on the client’s design requirements and ensured the site worked well across common screen sizes and browsers. Footage Video footage:"
+    },
+    {
+      "href": "/portfolios/profile-web/",
+      "title": "Profile Website",
+      "summary": "Personal portfolio website to showcase projects, experience, and posts. Built with Hugo and the Toha theme, customized for long-term maintainability.",
+      "date": "January 31, 2021",
+      "hero": "/portfolios/profile-web/hero.png",
+      "bodyText": "A personal website to showcase my profile, portfolio, and posts related to my work. Overview Role: Developer Type: Web App Technology: Hugo (Toha theme) Repo: Features: Portfolio pages, posts, and easy content updates Role Developer and content writer."
+    },
+    {
+      "href": "/portfolios/ragasukma-comic/",
+      "title": "Ragasukma Comic App",
+      "summary": "Mobile comic reader app for Ragasukma, released on Google Play. Built the React Native user app and supported the admin web panel for managing content.",
+      "date": "March 1, 2020",
+      "hero": "/portfolios/ragasukma-comic/hero.jpg",
+      "bodyText": "A mobile apps for reading and buy a comic made by . I worked on this project as part of the team. The application was released on Google Play. It includes a mobile app for end users and a web admin panel for content management. Overview Role: Front End Programmer Type: Mobile App (User), Web App (Admin) Technology: React Native (User), Web (Admin) Release: Features: User: login/logout, profile Reader: read comics, zoom in/out, offline reading, favorites Social: comments and ratings Transactions: cart and payment flow Other: highlights, articles, image downloads Admin panel to create/update/delete app data Role I collaborated with backend engineers and a UI designer. As part of the front end team, I implemented and maintained the app features across both the mobile app and the admin web panel. Footage Video (released app):"
+    },
+    {
+      "href": "/portfolios/company-profile/vdp/",
+      "title": "VDP Website",
+      "summary": "Company profile website built as a freelance project. Implemented a responsive marketing site with gallery and carousel components.",
+      "date": "March 1, 2019",
+      "hero": "/portfolios/company-profile/vdp/hero.jpg",
+      "bodyText": "I built this company profile website as a freelance project. Overview Role: Front End Programmer Type: Web App Technology: Bootstrap, Vue.js Release: Features: Image gallery Carousel Responsive layout Role As the front end developer, I implemented the UI based on the client’s design requirements and ensured the site worked well across common screen sizes and browsers. Footage Video footage:"
+    }
+  ]
+}

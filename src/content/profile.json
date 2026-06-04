@@ -1,0 +1,370 @@
+{
+  "greeting": "Hi, I'm Farih",
+  "name": "Farih Muhammad",
+  "designation": "Front End Engineer",
+  "homeBackgroundRules": [
+    {
+      "media": null,
+      "url": "/images/star-background_hu_24949aa2f30aff76.jpg"
+    },
+    {
+      "media": "(min-width:500px) and (max-width:800px)",
+      "url": "/images/star-background_hu_d3f92d39226ab700.jpg"
+    },
+    {
+      "media": "(min-width:801px) and (max-width:1200px)",
+      "url": "/images/star-background_hu_2a7c86a2e9c76038.jpg"
+    },
+    {
+      "media": "(min-width:1201px) and (max-width:1500px)",
+      "url": "/images/star-background_hu_95af9e00ca126d1c.jpg"
+    },
+    {
+      "media": "(min-width:1501px)",
+      "url": "/images/star-background.jpg"
+    }
+  ],
+  "authorImage": "/images/author/farih_hu_c3692c49354bc35f.jpg",
+  "lastUpdate": "Last Update at April 10, 2026 - 8:53:46",
+  "taglines": [
+    "a software developer",
+    "a front end engineer",
+    "a JavaScript enthusiast",
+    "someone who loves writing code",
+    "into science and technology"
+  ],
+  "aboutMarkdown": "Hi, I’m Farih — a Front End Engineer who builds reliable, user-focused products across web, mobile, and interactive applications.  \n  \nI started my professional journey in 2016 as a Web Front End developer and have since contributed to a wide range of projects, from polished marketing sites to complex web apps and mobile experiences. I’m comfortable owning features end-to-end: translating requirements into clean UI, writing maintainable code, and collaborating closely with designers, backend engineers, and QA to ship with confidence.  \n  \nI’m passionate about technology and science, and I enjoy learning new tools and patterns that improve both product quality and developer workflow. I’m driven to keep growing, take on meaningful challenges, and deliver solutions that make a real impact.",
+  "resumeUrl": "https://1drv.ms/b/s!AiTZSVCh7Q6Dj1FzL8uA1lAY69xC?e=12sK6B",
+  "socials": [
+    {
+      "href": "mailto:farihul.ibad@gmail.com",
+      "icon": "fas fa-envelope"
+    },
+    {
+      "href": "https://www.linkedin.com/in/kangfarih/",
+      "icon": "fab fa-linkedin"
+    }
+  ],
+  "softSkills": [
+    {
+      "name": "Self Motivation",
+      "percentage": 100,
+      "color": "blue"
+    },
+    {
+      "name": "Teamwork",
+      "percentage": 100,
+      "color": "yellow"
+    },
+    {
+      "name": "Communication",
+      "percentage": 100,
+      "color": "pink"
+    },
+    {
+      "name": "Hard Working",
+      "percentage": 100,
+      "color": "green"
+    },
+    {
+      "name": "Adaptability",
+      "percentage": 100,
+      "color": "sky"
+    },
+    {
+      "name": "Problem Solving",
+      "percentage": 100,
+      "color": "orange"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend Engineering",
+      "logo": "/images/sections/skills/js.png",
+      "url": "/portfolios/",
+      "summary": "Build scalable web apps with **Next.js**, **React**, **TypeScript**, and **Redux Toolkit** (routing, SSR/CSR, state management, performance)."
+    },
+    {
+      "name": "Web Fundamentals & UI",
+      "logo": "/images/sections/skills/html5.png",
+      "url": "/portfolios/",
+      "summary": "Strong foundation in **HTML/CSS/JavaScript** and practical UI work with **Tailwind CSS**, **PostCSS**, **Bootstrap**, and **jQuery**."
+    },
+    {
+      "name": "Authentication (Azure AD)",
+      "logo": "/images/sections/skills/cloud.png",
+      "url": "/portfolios/",
+      "summary": "Integrate secure sign-in and token flows using **MSAL** (msal-browser / msal-react) and app-level authorization patterns."
+    },
+    {
+      "name": "Real-time Features",
+      "logo": "/images/sections/skills/node-js.png",
+      "url": "/portfolios/",
+      "summary": "Build responsive experiences using **Socket.IO** and server-sent events (SSE) for streaming updates."
+    },
+    {
+      "name": "Testing & Code Quality",
+      "logo": "/images/sections/skills/git.png",
+      "url": "/portfolios/",
+      "summary": "Ship reliable features with **Vitest**, **Testing Library**, **ESLint**, and **SonarQube** quality gates."
+    },
+    {
+      "name": "Git & Delivery Workflow",
+      "logo": "/images/sections/skills/git.png",
+      "url": "/portfolios/",
+      "summary": "Work comfortably with **Git** on GitHub/GitLab/Bitbucket, including branching workflows and CI/CD basics."
+    },
+    {
+      "name": "React Native",
+      "logo": "/images/sections/skills/react-native.png",
+      "url": "/portfolios/",
+      "summary": "Deliver cross-platform mobile apps using **React Native**, with experience debugging native issues when needed."
+    },
+    {
+      "name": "Unity Game Engine",
+      "logo": "/images/sections/skills/unity3d.png",
+      "url": "/portfolios/",
+      "summary": "Build games and interactive experiences with **Unity** and **C#**, including AR projects."
+    },
+    {
+      "name": "Design Tools",
+      "logo": "/images/sections/skills/inkscape.png",
+      "url": "/portfolios/",
+      "summary": "Comfortable working with design assets using **Inkscape**, **Adobe Illustrator**, and basic **Photoshop**."
+    }
+  ],
+  "experiences": [
+    {
+      "role": "Front End Engineer",
+      "company": "PT Appfuxion Consulting Indonesia",
+      "companyUrl": "https://id.linkedin.com/company/pt-appfuxion-consulting-indonesia",
+      "meta": "May 2023 - Present, Jakarta, Indonesia",
+      "summary": "AppFuxion Consulting provides digital solutions and software testing services for clients across the Asia-Pacific region.",
+      "responsibilities": [
+        "Build and maintain production web applications using modern React/Next.js and TypeScript patterns.",
+        "Integrate authentication and secure session flows using Azure AD (MSAL).",
+        "Implement real-time user experiences and data streaming where needed.",
+        "Collaborate closely with QA and cross-functional teams to deliver features with quality and predictable timelines.",
+        "Improve developer workflow through linting, automated checks, and delivery tooling."
+      ]
+    },
+    {
+      "role": "Front End Developer",
+      "company": "Creatella Venture",
+      "companyUrl": "https://creatella.ventures/",
+      "meta": "Apr 2021 - Apr 2023, Singapore - Remote",
+      "summary": "Creatella is known for building startup products from zero to launch with small, fast-moving teams.",
+      "responsibilities": [
+        "Develop and ship user-facing features for web and mobile applications.",
+        "Translate product requirements into clean UI, reusable components, and maintainable code.",
+        "Work closely with designers and backend engineers to deliver consistent UX and API integrations.",
+        "Write tests and perform regression checks to keep releases stable."
+      ]
+    },
+    {
+      "role": "Front End Engineer",
+      "company": "Plexus Studio",
+      "companyUrl": "https://www.plexus.id",
+      "meta": "Mar 2018 - Aug 2020, Bandung",
+      "summary": "Plexus Studio delivers interactive products across games, web, mobile, AR, and VR.",
+      "responsibilities": [
+        "Build and maintain front-end features across web and mobile projects, including interactive experiences.",
+        "Integrate APIs and ensure responsive, accessible UI across devices and browsers.",
+        "Collaborate with designers and the wider engineering team to deliver on time and with quality.",
+        "Continuously learn and apply new tools and patterns to improve development efficiency."
+      ]
+    },
+    {
+      "role": "Front End Programmer",
+      "company": "Gema Cipta Piranti",
+      "companyUrl": "https://www.linkedin.com/company/pt-gcp/about/",
+      "meta": "March 2016 - May 2017, Bandung",
+      "summary": "Software development company delivering business applications for local clients.",
+      "responsibilities": [
+        "Build front-end modules for a school lab management system.",
+        "Implement CRUD screens, form validation, and dashboard-style UI components.",
+        "Maintain and improve existing features through bug fixes and iterative enhancements."
+      ]
+    },
+    {
+      "role": "Front End Freelance",
+      "company": "Freelancer",
+      "companyUrl": "",
+      "meta": "Aug 2020 - Apr 2021, Remote",
+      "summary": "Freelance developer delivering web and mobile solutions for clients.",
+      "responsibilities": [
+        "Deliver web and mobile projects from requirements to implementation.",
+        "Integrate third-party APIs and troubleshoot cross-browser or device-specific issues.",
+        "Provide maintenance, bug fixes, and improvements based on client feedback."
+      ]
+    }
+  ],
+  "projectFilters": [
+    {
+      "name": "All",
+      "filter": "all"
+    },
+    {
+      "name": "Professional",
+      "filter": "professional"
+    },
+    {
+      "name": "Hobby",
+      "filter": "hobby"
+    },
+    {
+      "name": "Web",
+      "filter": "web"
+    },
+    {
+      "name": "Mobile",
+      "filter": "mobile"
+    }
+  ],
+  "projects": [
+    {
+      "title": "MySLife Mobile App",
+      "logo": "/images/sections/skills/react-native.png",
+      "role": "Front End Programmer",
+      "timeline": "2022",
+      "url": "/portfolios/myslife-mobile-app/",
+      "repo": "",
+      "tags": [
+        "professional",
+        "mobile"
+      ],
+      "summary": "A social media-style mobile app focused on curated content and community features. Built the user mobile app and collaborated on the admin web app to manage content and operations. Delivered using React Native with a focus on clean UI, maintainable components, and stable releases."
+    },
+    {
+      "title": "Profile Web",
+      "logo": "/images/sections/skills/js.png",
+      "role": "Developer",
+      "timeline": "Jan 2021 - Present",
+      "url": "/portfolios/profile-web/",
+      "repo": "https://github.com/kangfarih/kangfarih.github.io",
+      "tags": [
+        "template",
+        "hobby",
+        "web"
+      ],
+      "summary": "Personal portfolio website built with Hugo and customized from the Toha theme. Focused on clean structure, performance, and easy content updates for long-term maintenance."
+    },
+    {
+      "title": "General Admin Demo",
+      "logo": "/images/sections/skills/js.png",
+      "role": "Developer",
+      "timeline": "Dec 2020 - Present",
+      "url": "/portfolios/web-admin-template/",
+      "repo": "https://github.com/kangfarih/portfolio-web-admin",
+      "tags": [
+        "professional",
+        "hobby",
+        "web"
+      ],
+      "summary": "Admin dashboard demo to showcase practical patterns for building internal tools. Built with a Bootstrap-based UI and vanilla JavaScript, focusing on reusable UI blocks and clarity."
+    },
+    {
+      "title": "Interactive Web Video",
+      "logo": "/images/sections/skills/html5.png",
+      "role": "Developer",
+      "timeline": "2020",
+      "url": "/portfolios/interactive-web-video/",
+      "repo": "",
+      "tags": [
+        "professional",
+        "video",
+        "web"
+      ],
+      "summary": "An interactive web video player with clickable hotspots/tags layered on top of the video. Built as a freelance project with plain HTML/CSS/JavaScript and jQuery, optimized for browser compatibility."
+    },
+    {
+      "title": "Company Profile Web",
+      "logo": "/images/sections/skills/js.png",
+      "role": "Front End Programmer",
+      "timeline": "2019",
+      "url": "/portfolios/company-profile/",
+      "repo": "",
+      "tags": [
+        "professional",
+        "web"
+      ],
+      "summary": "A set of responsive company profile websites for multiple brands (VDP, Indessota, Natraco, 8Villages). Focused on clean presentation, performance, and maintainable content structure."
+    },
+    {
+      "title": "Augmented Reality Apps",
+      "logo": "/images/sections/skills/unity3d.png",
+      "role": "Front End Programmer",
+      "timeline": "2020",
+      "url": "/portfolios/ar-mobile-apps/",
+      "repo": "",
+      "tags": [
+        "professional",
+        "mobile"
+      ],
+      "summary": "Mobile AR application to visualize and simulate products for First4Figures. Delivered with Unity and C#, including an admin web app to manage content and assets."
+    },
+    {
+      "title": "Casual Game Prototype",
+      "logo": "/images/sections/skills/unity3d.png",
+      "role": "Front End Programmer",
+      "timeline": "2020",
+      "url": "/portfolios/casual-game-prototype/",
+      "repo": "",
+      "tags": [
+        "professional",
+        "mobile",
+        "game"
+      ],
+      "summary": "Casual game prototype built to validate core gameplay quickly. Collaborated with game and graphic designers to implement mechanics, UI, and rapid iteration in Unity."
+    },
+    {
+      "title": "Ragasukma Comic",
+      "logo": "/images/sections/skills/react-native.png",
+      "role": "Front End Programmer",
+      "timeline": "2020",
+      "url": "/portfolios/ragasukma-comic/",
+      "repo": "",
+      "tags": [
+        "professional",
+        "mobile"
+      ],
+      "summary": "Mobile app for reading and purchasing digital comics, released on Google Play Store. Built the end-user mobile experience and supported an admin web app for content management."
+    },
+    {
+      "title": "Encrypted Audio Player",
+      "logo": "/images/sections/skills/react-native.png",
+      "role": "Front End Programmer",
+      "timeline": "2019",
+      "url": "/portfolios/encrypted-audio-player/",
+      "repo": "",
+      "tags": [
+        "professional",
+        "mobile"
+      ],
+      "summary": "Secure audio player that handles encrypted audio content for playback. Built as a freelance project with two apps (user and admin) using React Native, focusing on reliability and user experience."
+    }
+  ],
+  "recentPosts": [
+    {
+      "title": "MySlife - Mobile App",
+      "summary": "A mobile app of MySLife products. This the project that I am working in when I was a part of Creatella Team. There are a Mobile apps and Web Apps for Admin to manage the contents.",
+      "date": "May 6, 2023",
+      "url": "/portfolios/myslife-mobile-app/",
+      "hero": "/portfolios/myslife-mobile-app/hero.png"
+    },
+    {
+      "title": "Profile Website",
+      "summary": "A personal project to create profile and portfolio web. Also to post something related to project and professional matter.",
+      "date": "January 31, 2021",
+      "url": "/portfolios/profile-web/",
+      "hero": "/portfolios/profile-web/hero.png"
+    },
+    {
+      "title": "General Admin Template",
+      "summary": "This project is made to demonstrate my experince from build an admin website. when I was a part of Plexus.id Team. It was build with bootstrap based template and vanilla javascript.",
+      "date": "June 1, 2020",
+      "url": "/portfolios/web-admin-template/",
+      "hero": "/portfolios/web-admin-template/hero.png"
+    }
+  ]
+}

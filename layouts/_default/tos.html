@@ -1,0 +1,67 @@
+{{ define "header" }}
+<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Title }}{{ end }}" />
+<link rel="stylesheet" href="{{ "/css/layouts/single.css" | relURL }}"/>
+<style>
+  .wrapper {
+    justify-content: center !important;
+  }
+  .content-section {
+    flex: 50% !important;
+    max-width: 50% !important;
+    padding-top: 3rem !important;
+  }
+</style>
+{{ end }}
+
+{{ define "navbar" }}
+    {{ partial "navigators/navbar-2.html" . }}
+{{ end }}
+
+{{ define "sidebar" }}{{ end }}
+
+{{ define "content" }}
+<section class="content-section" id="content-section">
+  <div class="content">
+    <div class="container p-0 read-area">
+      <!--Hero Area-->
+      <div class="hero-area col-sm-12" id="hero-area" style='background-image: url({{ strings.TrimSuffix "/" (site).BaseURL }}{{ partial "helpers/get-hero.html" . }});'>
+      </div>
+
+      <!--Content Start-->
+      <div class="page-content">
+        <div class="author-profile ml-auto align-self-lg-center">
+          <img class="rounded-circle" src='{{ partial "helpers/get-author-image.html" . }}'/>
+          <h5 class="author-name">{{ partial "helpers/get-author-name.html" . }}</h5>
+          <p>{{ .Page.Date.Format "January 2, 2006" }}</p>
+        </div>
+
+        <div class="title">
+          <h1>{{ .Page.Title }}</h1>
+        </div>
+
+        <div class="post-content" id="post-content">
+          {{ .Page.Content }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{ define "toc" }}
+  <section class="toc-section" id="toc-section">
+    {{ if (site).Params.enableTOC }}
+    <div class="toc-holder">
+      <h5 class="text-center pl-3">{{ i18n "toc_heading" }}</h5>
+      <hr>
+      <div class="toc">
+        {{ .TableOfContents }}
+      </div>
+    </div>
+    {{ end }}
+  </section>
+{{ end }}
+
+{{ define "scripts" }}
+<script src="{{ "/js/single.js" | relURL }}"></script>
+{{ end }}

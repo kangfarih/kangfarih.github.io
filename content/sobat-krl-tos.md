@@ -1,11 +1,7 @@
 ---
 title: "Terms of Service — Sobat KRL"
 date: 2026-07-13
-menu:
-  sidebar:
-    name: Sobat KRL ToS
-    identifier: sobat-krl-tos
-    weight: 1
+layout: tos
 ---
 
 ## English Version
